@@ -1,0 +1,4 @@
+cashier
+customer service representative
+attendant
+manager

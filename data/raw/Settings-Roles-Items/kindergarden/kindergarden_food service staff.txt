@@ -1,0 +1,4 @@
+a list of the children's allergies and dietary restrictions
+a list of the food items that will be served
+a schedule of when the children will be eating
+a way to keep food items warm or cold

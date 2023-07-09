@@ -1,0 +1,12 @@
+a blood pressure cuff
+a disposable glove
+a face mask
+a gown
+a light source
+a magnifying glass
+a pen light
+a speculum
+a sphygmomanometer
+a stethoscope
+a thermometer
+a tongue depressor

@@ -1,0 +1,4 @@
+customer
+employee
+manager
+owner

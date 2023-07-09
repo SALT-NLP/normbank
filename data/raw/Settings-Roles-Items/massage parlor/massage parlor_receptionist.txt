@@ -1,0 +1,9 @@
+a booking system
+a calendar
+a cash register
+a computer
+a credit card machine
+a desk or counter
+a list of available masseuses
+a list of services and prices
+a phone

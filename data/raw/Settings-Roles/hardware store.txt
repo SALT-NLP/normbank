@@ -1,0 +1,5 @@
+cashier
+floor manager
+sales associate
+store manager
+warehouse manager

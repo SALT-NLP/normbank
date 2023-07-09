@@ -1,0 +1,6 @@
+a calculator to calculate payments
+a computer to track membership information
+a headset to hands-free phone calls
+a pen and paper to take messages
+a phone to answer calls
+a printer to print out membership cards

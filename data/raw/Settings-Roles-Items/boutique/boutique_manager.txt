@@ -1,0 +1,6 @@
+a POS system
+a way to accept payments
+a way to manage customer information
+a way to track sales
+employee scheduling software
+inventory management software

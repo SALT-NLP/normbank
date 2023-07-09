@@ -1,0 +1,7 @@
+a brush
+a hammer
+a pail
+a piece of chalk
+a rope
+a saw
+an axe

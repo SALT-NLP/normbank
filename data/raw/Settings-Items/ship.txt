@@ -1,0 +1,13 @@
+a chronometer
+a compass
+a fire extinguisher
+a first-aid kit
+a flare gun
+a food supply
+a lifeboat
+a map
+a radio
+a sextant
+a telescope
+a water supply
+binoculars

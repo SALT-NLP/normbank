@@ -1,0 +1,5 @@
+defenseman
+forward
+goalie
+linesman
+referee

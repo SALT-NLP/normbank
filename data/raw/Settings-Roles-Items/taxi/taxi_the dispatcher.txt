@@ -1,0 +1,6 @@
+a list of available drivers
+a list of available taxis
+the current location of each driver
+the current location of each taxi
+the destination of each driver
+the destination of each taxi

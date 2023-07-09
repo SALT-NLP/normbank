@@ -1,0 +1,7 @@
+a budget for the newsroom
+a list of the contact information for each reporter
+a list of the contact information for each source
+a list of the deadlines for each story
+a list of the reporters and their assignments
+a list of the stories that need to be covered
+a list of the story ideas that have been pitched

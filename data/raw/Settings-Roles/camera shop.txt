@@ -1,0 +1,6 @@
+assistant manager
+cashier
+manager
+sales associate
+stock associate
+store director

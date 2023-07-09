@@ -1,0 +1,11 @@
+a bed
+a chair
+a dresser
+a lamp
+a nightstand
+a shower
+a sink
+a table
+a television
+a toilet
+a wheelchair

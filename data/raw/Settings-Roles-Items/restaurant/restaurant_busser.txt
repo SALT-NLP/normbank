@@ -1,0 +1,4 @@
+a broom
+a dustpan
+a rag
+a trash can

@@ -1,0 +1,7 @@
+a baton
+a gun
+a pepper spray
+a radio
+a set of keys
+a taser
+a whistle

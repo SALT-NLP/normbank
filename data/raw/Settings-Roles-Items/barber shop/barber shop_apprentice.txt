@@ -1,0 +1,11 @@
+a brush
+a cape
+a chair
+a comb
+a mirror
+a pair of scissors
+a razor
+a sign
+a sink
+a towel
+soap

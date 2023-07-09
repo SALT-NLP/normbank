@@ -1,0 +1,13 @@
+a broom
+a can opener
+a cutting board
+a dishwasher
+a knife
+a mop
+a pan
+a pot
+a refrigerator
+a sink
+a stove
+a trash can
+cleaning supplies

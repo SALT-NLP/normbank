@@ -1,0 +1,5 @@
+a crane operator who uses a crane to load and unload cargo
+a foreman who assigns workers to specific tasks
+a forklift operator who uses a forklift to load and unload cargo
+a longshoreman who manually loads and unloads cargo
+a supervisor who oversees the dock and the workers

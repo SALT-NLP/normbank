@@ -1,0 +1,4 @@
+has no children
+has young children
+has teenage children
+has adult children

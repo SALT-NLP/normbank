@@ -1,0 +1,13 @@
+a broom
+a bucket
+a forge
+a hose
+a pitchfork
+a rake
+a set of blacksmithing tools
+a set of horse grooming tools
+a set of horseshoeing tools
+a shovel
+a wheelbarrow
+a workbench
+an anvil

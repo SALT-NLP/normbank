@@ -1,0 +1,6 @@
+a bank
+a grocery store
+a library
+a park
+a post office
+a school

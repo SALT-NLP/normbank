@@ -1,0 +1,9 @@
+activity coordinator
+airline employee
+hotel employee
+lifeguard
+rental car employee
+restaurant employee
+surfer
+tourist
+travel agent

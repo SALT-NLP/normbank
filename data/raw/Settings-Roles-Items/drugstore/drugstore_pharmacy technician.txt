@@ -1,0 +1,21 @@
+a calculator
+a calendar
+a clock
+a computer
+a fax machine
+a list of diseases
+a list of doctors
+a list of drugs
+a list of insurance plans
+a list of interactions
+a list of medications
+a list of patients
+a list of prices
+a list of side effects
+a list of symptoms
+a list of treatments
+a list of warnings
+a phone
+a printer
+a schedule
+a stapler

@@ -1,0 +1,10 @@
+a clipboard
+a flag
+a lantern
+a list of train times
+a megaphone
+a pen
+a radio
+a set of keys
+a train schedule
+a whistle

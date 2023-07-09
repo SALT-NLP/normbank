@@ -1,0 +1,6 @@
+a list of ballooning sponsors
+a list of local hotels
+a list of local restaurants
+a map of the event site
+a schedule of events
+a weather forecast for the event

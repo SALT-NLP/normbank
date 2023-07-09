@@ -1,0 +1,5 @@
+bagger
+cashier
+customer
+manager
+stocker

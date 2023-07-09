@@ -1,0 +1,10 @@
+all-purpose cleaner
+broom
+bucket
+disinfectant
+glass cleaner
+hangers
+laundry detergent
+mop
+rags
+trash bags

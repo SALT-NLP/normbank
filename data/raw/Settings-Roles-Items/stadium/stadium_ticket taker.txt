@@ -1,0 +1,4 @@
+a printer to print out tickets
+a ticket scanner
+a way to keep track of how many tickets have been scanned
+a way to keep track of tickets that have been scanned

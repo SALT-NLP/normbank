@@ -1,0 +1,5 @@
+a copy of the pawnbroker's bond
+a copy of the pawnbroker's license
+a description of the pawnbroker's procedures for evaluating and accepting collateral
+a list of the items the pawnbroker is willing to accept as collateral
+a list of the pawnbroker's fees

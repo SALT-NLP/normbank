@@ -1,0 +1,5 @@
+a key to operate the train
+a map of the subway system
+a radio to communicate with other subway drivers and control tower
+a train schedule
+emergency braking procedures

@@ -1,0 +1,9 @@
+amplifier
+chair
+headset
+laptop
+microphone
+signage
+speakers
+table
+water

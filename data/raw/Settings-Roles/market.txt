@@ -1,0 +1,10 @@
+bagger
+barista
+butcher
+cashier
+chef
+customer
+fishmonger
+greengrocer
+ice cream server
+pizza maker

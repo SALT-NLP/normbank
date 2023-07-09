@@ -1,0 +1,5 @@
+a communication system to stay in touch with my troops
+a list of all the enemy targets
+a list of all the supplies we have
+a list of all the troops under my command
+a map of the area

@@ -1,0 +1,6 @@
+a bus schedule
+a fare box
+a flashlight
+a map
+a radio
+a ticket machine

@@ -1,0 +1,12 @@
+a blood pressure cuff
+a gown
+a light source
+a reflex hammer
+a sphygmomanometer
+a sterile dressing
+a stethoscope
+a surgical mask
+a thermometer
+a tongue depressor
+a tuning fork
+gloves

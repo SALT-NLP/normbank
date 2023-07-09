@@ -1,0 +1,7 @@
+doctor
+nurse
+patient
+alcoholism counselor
+social worker
+psychologist
+psychiatrist

@@ -1,0 +1,3 @@
+a clock
+a stopwatch
+a timer

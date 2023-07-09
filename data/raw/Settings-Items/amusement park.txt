@@ -1,0 +1,2 @@
+a map of the park
+a schedule of events

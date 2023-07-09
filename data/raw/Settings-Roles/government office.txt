@@ -1,0 +1,17 @@
+accountant
+budget analyst
+city council member
+city manager
+civil engineer
+construction manager
+environmental engineer
+GIS specialist
+information technology specialist
+legal counsel
+mayor
+personnel officer
+planner
+public relations officer
+purchasing agent
+safety officer
+transportation engineer

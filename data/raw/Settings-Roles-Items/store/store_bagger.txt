@@ -1,0 +1,4 @@
+a bag
+a cart
+a conveyor belt
+a scanner

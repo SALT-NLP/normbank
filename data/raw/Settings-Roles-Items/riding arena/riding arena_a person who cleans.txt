@@ -1,0 +1,5 @@
+a broom
+a dustpan
+a hose
+a rake
+a shovel

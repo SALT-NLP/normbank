@@ -1,0 +1,31 @@
+a broom
+a calculator
+a cash register
+a clock
+a computer
+a copy machine
+a credit card machine
+a dustpan
+a fax machine
+a file cabinet
+a glue stick
+a guest book
+a hole puncher
+a hotel employee ID
+a list of hotel policies
+a mop
+a name tag
+a notepad
+a paper clip
+a pen
+a pencil sharpener
+a printer
+a rug
+a safe
+a stapler
+a tape dispenser
+a telephone
+a uniform
+a vacuum cleaner
+a wastepaper basket
+a window

@@ -1,0 +1,6 @@
+a list of the products that the store offers
+a list of the store's employees
+a list of the store's events
+a list of the store's hours
+a list of the store's policies
+a list of the store's promotions

@@ -1,0 +1,9 @@
+a chair
+a computer
+a copy machine
+a desk
+a fax machine
+a file cabinet
+a phone
+a printer
+a safe

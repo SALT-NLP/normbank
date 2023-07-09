@@ -1,0 +1,5 @@
+a list of the courses offered at the academy
+a list of the faculty and staff at the academy
+a list of the names and contact information of all the students attending the academy
+a list of the rules and regulations of the academy
+a schedule of classes for the academy

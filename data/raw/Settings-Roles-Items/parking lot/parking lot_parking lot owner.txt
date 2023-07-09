@@ -1,0 +1,6 @@
+a parking lot management system to help me keep track of my parking lot and its users
+a way to collect payment from users
+either through a parking meter or some other means
+lighting to make the parking lot safe and visible at night
+security cameras to deter crime and help with investigations if something does happen
+signs and markings to clearly delineate the parking spaces and other areas of the lot

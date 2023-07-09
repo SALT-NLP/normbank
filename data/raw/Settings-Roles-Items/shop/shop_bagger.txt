@@ -1,0 +1,4 @@
+a a conveyor belt
+b a scanner
+c a register
+d bags

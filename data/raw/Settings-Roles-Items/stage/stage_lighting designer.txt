@@ -1,0 +1,7 @@
+a dmx controller
+a gaffer
+a laptop
+a light board
+a lighting fixture library
+a selection of lights
+cables and connectors

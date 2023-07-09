@@ -1,0 +1,6 @@
+a list of the inmates
+a list of the prison staff
+a map of the prison
+a security system
+a way to communicate with the outside world
+keys to the prison

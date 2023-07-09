@@ -1,0 +1,12 @@
+a bartender's license
+a cash register
+a liquor license
+a list of approved alcoholic beverages
+a list of approved mixers
+a list of bar supplies
+a list of bar tools
+a list of bar utensils
+a list of glassware
+a list of non-alcoholic beverages
+a pos system
+a safe

@@ -1,0 +1,10 @@
+a director
+a script
+a set
+a stage
+a theater
+actors
+costumes
+lights
+props
+sound

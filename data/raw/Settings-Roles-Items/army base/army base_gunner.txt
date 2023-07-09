@@ -1,0 +1,9 @@
+a bed
+a chair
+a computer
+a desk
+a gun
+a helmet
+a locker
+a phone
+a uniform

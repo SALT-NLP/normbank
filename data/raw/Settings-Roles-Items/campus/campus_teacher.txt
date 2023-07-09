@@ -1,0 +1,11 @@
+a chalkboard
+a classroom
+a computer
+a desk
+a printer
+a projector
+a whiteboard
+erasers
+markers
+paper
+pens

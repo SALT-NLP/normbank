@@ -1,0 +1,10 @@
+book
+charger
+credit card
+headphones
+money
+passport
+phone
+snacks
+ticket
+water

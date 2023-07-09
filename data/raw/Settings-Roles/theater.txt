@@ -1,0 +1,12 @@
+actor
+assistant stage manager
+costume designer
+director
+fight choreographer
+hair and makeup designer
+lighting designer
+producer
+props master
+set designer
+sound designer
+stage manager

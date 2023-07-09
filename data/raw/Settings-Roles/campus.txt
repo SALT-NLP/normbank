@@ -1,0 +1,5 @@
+administrator
+professor
+staff member
+student
+teacher

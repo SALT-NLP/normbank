@@ -1,0 +1,7 @@
+a cape
+a comb
+a hairbrush
+a hairdryer
+a mirror
+a spray bottle
+hair scissors

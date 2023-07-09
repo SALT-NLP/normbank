@@ -1,0 +1,692 @@
+<QuestionForm xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd'>  
+  <Overview>
+    <Title>Conditional Social Norms - Qualification Test</Title>
+    <FormattedContent><![CDATA[
+<h2>HIT Instructions</h2>
+<p>In this HIT, you will be given the name of a social SETTING like an <em>airplane</em>. Then you can help think of examples of different Constraints where the BEHAVIOR might be expected, okay, or unexpected.</p>
+
+<p>By "expected, okay, or unexpected" we use the following definitions.</p>
+
+<ol>
+  <li><b>Expected:</b> Behaviors that a certain kind of person would be predicted or required to do in this setting. There is often some kind of <em>obligation</em> here.
+  </li> 
+  
+  <li><b>Okay:</b> Behaviors that a certain kind of person would reasonably do in this setting, but there is <em>no obligation</em>.
+  </li>
+
+  <li><b>Unexpected:</b> Behaviors that may be socially or culturally taboo, forbidden, discouraged, or generally surprising and "not normal" for a certain kind of person to do in this setting.
+  </li>
+</ol>
+
+<p>There are examples of Constraints in the tables below. Constraints have a <u>Category</u>, <u>Name</u>, <u>Relation</u>, and <u>Value</u>. Consider the examples to understand them better.</p>
+
+<ul>
+  <li><p>You should think of the Constraints in a single table as having the word AND between them. That is, all the Constraints work together to define the conditions where the BEHAVIOR might be expected, okay, or unexpected.</p> </li>
+
+  <li><p>The PERSON PERFORMING BEHAVIOR is the main person you are adding Constraints for, but you can also add Constraints for some OTHER PERSON. For example, if the BEHAVIOR is "serving drinks" and the SETTING is "airplane," the PERSON PERFORMING BEHAVIOR is often the flight attendant, and the OTHER PERSON is the passenger who is receiving the drink.</p></li>
+
+  <li><p>If the default list doesn't contain the Constraint that you need, feel free to create a new Constraint by directly typing it into the box.</p></li>
+</ul>
+
+
+
+<p>Please review these examples.</p>
+
+<h2>Examples of <u>Expected</u> Behaviors (under the following Constraints)</h2>
+<p><b>SETTING</b>: airplane</p>
+<ul>
+
+  <li><p><b>BEHAVIOR:</b> <em>communicate with air traffic control</em> <strong>is Expected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>airplane role</td>
+          <td>is</td>
+          <td>copilot</td>
+          <td>By definition of her job, the copilot is expected to communicate with air traffic control.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+
+  <li><p><b>BEHAVIOR:</b> <em>distribute snacks</em> <strong>is Expected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>airplane role</td>
+          <td>is</td>
+          <td>flight attendant</td>
+          <td>As part of their job, flight attendants are expected to distribute snacks.</td>
+        </tr>
+
+
+        <tr>
+          <td>2.</td>
+          <td>some OTHER PERSON's role</td>
+          <td>airplane role</td>
+          <td>is</td>
+          <td>passenger</td>
+          <td>Snacks should be distributed only to passengers.</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>some OTHER PERSON's attribute</td>
+          <td>state</td>
+          <td>is NOT</td>
+          <td>sleeping</td>
+          <td>Sleeping passengers should not be woken up and offered snacks.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+
+  <li><p><b>BEHAVIOR:</b> bring a weapon<strong>is Expected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>airplane role</td>
+          <td>is</td>
+          <td>air marshal</td>
+          <td>An air marshal is a federal agent disguised to look like regular passenger. Each air marshal is authorized and expected to carry a gun for emergencies.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+
+</ul>
+
+<h2>Examples of <u>Okay</u> Behaviors (under the following Constraints)</h2>
+<p><b>SETTING:</b> <em>airplane</em></p>
+<ul>
+
+  <li><p><b>BEHAVIOR:</b> <em>eat a ham sandwich</em> <strong>is okay when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>airplane role</td>
+          <td>is</td>
+          <td>passenger</td>
+          <td>While other roles like pilots and flight assistants might not, passengers often eat complimentary snacks on a flight.</td>
+        </tr>
+
+        <tr>
+          <td>2.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age-bracket</td>
+          <td>is NOT</td>
+          <td>infant</td>
+          <td>Infants could choke on a sandwich.</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Judaism</td>
+          <td>Pork is not kosher in Judaism.</td>
+        </tr>
+
+        <tr>
+          <td>4.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Islam</td>
+          <td>Pork is haram (forbidden) in Islam.</td>
+        </tr>
+
+        <tr>
+          <td>5.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Seventh Day Adventist</td>
+          <td>Adventists recognize pork as unclean.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+
+  
+  <li><p><b>BEHAVIOR:</b> <em>chew on the tray table</em> <strong>is Okay when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age-bracket</td>
+          <td>is</td>
+          <td>infant</td>
+          <td>While it certainly is not required, infants are known to chew on things like tray tables. This would not be considered taboo for an infant to do.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+
+</ul>
+
+<p><b>SETTING:</b> <em>boat</em></p>
+<ul>
+  <li>
+    <p><b>BEHAVIOR:</b> <em>drink beer</em> <strong>is Okay when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>country</td>
+          <td>is</td>
+          <td>the United States of America</td>
+          <td>We set the country first because this determines the drinking age.</td>
+        </tr>
+
+        <tr>
+          <td>2.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age</td>
+          <td>is greater than or equal to</td>
+          <td>21</td>
+          <td>This is the drinking age in the US.</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Islam</td>
+          <td>Muslims do not drink alcohol.</td>
+        </tr>
+
+        <tr>
+          <td>4.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Jainism</td>
+          <td>Jains do not drink alcohol.</td>
+        </tr>
+
+        <tr>
+          <td>5.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Baháʼí</td>
+          <td>Baháʼís do not drink alcohol.</td>
+        </tr>
+
+        <tr>
+          <td>6.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>boat role</td>
+          <td>is NOT</td>
+          <td>captain</td>
+          <td>If this person is the captain or boat operator, they must remain sober or else they could face legal trouble for Boating Under the Influence (BUI).</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<h2>Examples of <u>Unexpected</u> Behaviors (under the following Constraints)</h2>
+<p><b>SETTING:</b> <em>airplane</em></p>
+<ul>
+
+
+  <li><p><b>BEHAVIOR:</b> <em>ask for a Coke</em> <strong>is Unexpected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+
+        <tr>
+          <td>1.</td>
+          <td>some OTHER PERSON's role</td>
+          <td>airplane role</td>
+          <td>is NOT</td>
+          <td>flight attendant</td>
+          <td>While it is normal to ask the flight attendant for a Coke, it is not normal to ask a <em>passenger</em> for a Coke.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+  
+  <li><p><b>BEHAVIOR:</b> <em>chew on the tray table</em> <strong>is Unexpected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age-bracket</td>
+          <td>is NOT</td>
+          <td>infant</td>
+          <td>Once the passenger is old enough, the passenger is expected not to chew on things in the cabin.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li>
+  
+  <li><p><b>BEHAVIOR:</b> <em>bring a weapon</em> <strong>is Unexpected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's role</td>
+          <td>airplane role</td>
+          <td>is NOT</td>
+          <td>air marshal</td>
+          <td>Except for the air marshal, no other person should be armed on an airplane.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>                   
+
+</ul>
+
+
+<p><b>SETTING:</b> <em>banquet hall</em></p>
+<ul>
+  <li><p><b>BEHAVIOR:</b> <em>eat dinner</em> <strong>is Unexpected when...</strong></p>
+    <p><em><u>Constraints</u></em></p>
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+          <th><b>Explanation</b></th>
+        </tr>
+
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is</td>
+          <td>Baháʼí</td>
+          <td>Although most would be expected to eat at a banquet hall, there may be special conditions that would require a person to fast. One of these conditions is a religious holiday.</td>
+        </tr>
+
+        <tr>
+          <td>2.</td>
+          <td>environment</td>
+          <td>holiday</td>
+          <td>is</td>
+          <td>Ala</td>
+          <td>During the month of Ala, Baháʼís between ages 15-70 observe a fast.</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age</td>
+          <td>is greater than or equal to</td>
+          <td>15</td>
+          <td>See Explanation above.</td>
+        </tr>
+
+        <tr>
+          <td>4.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>age</td>
+          <td>less than</td>
+          <td>70</td>
+          <td>See Explanation above.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </li> 
+
+</ul>
+<h2>Quiz</h2>
+    ]]></FormattedContent>
+  </Overview>
+
+  <Question>
+      <QuestionIdentifier>q_1</QuestionIdentifier>
+      <DisplayName>Q1</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p><b>T/F</b>: you are allowed to add your own Constraints by typing them directly into the box.</p>
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>true</SelectionIdentifier>
+              <Text>True</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>false</SelectionIdentifier>
+              <Text>False</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+  <Question>
+      <QuestionIdentifier>q_2</QuestionIdentifier>
+      <DisplayName>Q2</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p><b>T/F</b>: “carry a gun” can be an "Expected" behavior on an Airplane.</p>
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>true</SelectionIdentifier>
+              <Text>True</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>false</SelectionIdentifier>
+              <Text>False</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+  <Question>
+      <QuestionIdentifier>q_3</QuestionIdentifier>
+      <DisplayName>Q3</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p><b>T/F</b>: “read a book” is an "Expected" behavior for a passenger on an Airplane.</p>
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>true</SelectionIdentifier>
+              <Text>True</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>false</SelectionIdentifier>
+              <Text>False</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+  <Question>
+      <QuestionIdentifier>q_4</QuestionIdentifier>
+      <DisplayName>Q4</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p><b>T/F</b>: it is possible for a BEHAVIOR to be both "Expected" and "Okay" under the same Constraints.</p>
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>true</SelectionIdentifier>
+              <Text>True</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>false</SelectionIdentifier>
+              <Text>False</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+  <Question>
+      <QuestionIdentifier>q_5</QuestionIdentifier>
+      <DisplayName>Q5</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p>Let's say you are adding some Constraints for when "eating shrimp" is "Unexpected" in the SETTING: restaurant. You know that shellfish are disallowed in both Hinduism and Judaism, as well as by the vegan and vegetarian diets. You are thinking of adding these in the following Constraint table. Is this correct?</p>
+
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+        </tr>
+
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is</td>
+          <td>Judaism</td>
+        </tr>
+
+        <tr>
+          <td>2.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is</td>
+          <td>Hinduism</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>diet</td>
+          <td>is</td>
+          <td>vegan</td>
+        </tr>
+
+        <tr>
+          <td>4.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>diet</td>
+          <td>is</td>
+          <td>vegetarian</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>correct</SelectionIdentifier>
+              <Text>Correct</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>incorrect</SelectionIdentifier>
+              <Text>Incorrect</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+  <Question>
+      <QuestionIdentifier>q_6</QuestionIdentifier>
+      <DisplayName>Q6</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+        <FormattedContent><![CDATA[
+          <p>Let's say you are adding some Constraints for when "eating shrimp" is "Okay" in the SETTING: restaurant. You know that shellfish are disallowed in both Hinduism and Judaism, as well as by the vegan and vegetarian diets. You are thinking of adding these in the following Constraint table. Is this correct?</p>
+
+    <table>
+      <tbody>
+        <tr>
+          <th></th>
+          <th><b>Category</b></th>
+          <th><b>Name</b></th>
+          <th><b>Relation</b></th>
+          <th><b>Value</b></th>
+        </tr>
+
+        <tr>
+          <td>1.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Judaism</td>
+        </tr>
+
+        <tr>
+          <td>2.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>religion</td>
+          <td>is NOT</td>
+          <td>Hinduism</td>
+        </tr>
+
+        <tr>
+          <td>3.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>diet</td>
+          <td>is NOT</td>
+          <td>vegan</td>
+        </tr>
+
+        <tr>
+          <td>4.</td>
+          <td>the PERSON PERFORMING BEHAVIOR's attribute</td>
+          <td>diet</td>
+          <td>is NOT</td>
+          <td>vegetarian</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+        ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>correct</SelectionIdentifier>
+              <Text>Correct</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>incorrect</SelectionIdentifier>
+              <Text>Incorrect</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+  </Question>
+
+</QuestionForm>

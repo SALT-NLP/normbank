@@ -1,0 +1,20 @@
+a calendar
+a camera
+a chair
+a clock
+a computer
+a copier
+a desk
+a fax machine
+a file cabinet
+a hole puncher
+a phone
+a printer
+a projector
+a scanner
+a screen
+a sound system
+a stapler
+a trash can
+a whiteboard
+markers

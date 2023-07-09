@@ -1,0 +1,10 @@
+anchors
+battery-operated radio
+boats
+fire extinguisher
+first aid kit
+flashlight
+life jackets
+oars
+ropes
+tool kit

@@ -1,0 +1,11 @@
+a bucket
+a cart 
+a cleaning solution
+a dust mop
+a dustpan
+a mop
+a trash can
+a vacuum cleaner
+cleaning supplies
+paper towels
+rags

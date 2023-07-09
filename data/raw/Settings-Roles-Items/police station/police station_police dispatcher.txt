@@ -1,0 +1,13 @@
+a chair
+a clock
+a coffee machine
+a computer
+a copier
+a desk
+a fax machine
+a map
+a phone
+a printer
+a radio
+a scanner
+a whiteboard

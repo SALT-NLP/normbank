@@ -1,0 +1,6 @@
+air traffic controller
+co-pilot
+flight attendant
+flight engineer
+navigator
+pilot

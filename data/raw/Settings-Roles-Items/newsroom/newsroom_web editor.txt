@@ -1,0 +1,6 @@
+a computer
+a internet connection
+a news aggregator
+a text editor
+a web browser
+an RSS reader

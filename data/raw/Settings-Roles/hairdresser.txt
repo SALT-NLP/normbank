@@ -1,0 +1,6 @@
+assistant
+barber
+colorist
+hairdresser
+receptionist
+stylist

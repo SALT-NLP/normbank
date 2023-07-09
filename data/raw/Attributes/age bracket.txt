@@ -1,0 +1,9 @@
+infant
+toddler
+preschooler
+gradeschooler
+teen
+young adult
+middle-aged adult
+older adult
+senior citizen

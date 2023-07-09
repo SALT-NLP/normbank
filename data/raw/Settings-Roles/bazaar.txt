@@ -1,0 +1,8 @@
+cashier
+customer service representative
+greeter
+janitor
+manager
+sales associate
+security guard
+stocker

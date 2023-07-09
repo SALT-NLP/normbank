@@ -1,0 +1,10 @@
+a broom
+a dust cloth
+a dustpan
+a hose
+a pickaxe
+a rake
+a shovel
+a spade
+a watering can
+a wheelbarrow

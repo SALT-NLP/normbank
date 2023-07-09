@@ -1,0 +1,6 @@
+a list of insurance companies that the clinic accepts
+a list of providers that the clinic accepts
+a list of services that the clinic offers
+a list of the clinic's hours of operation
+a list of the types of insurance that the clinic accepts
+the clinic's contact information

@@ -1,0 +1,13 @@
+a boat
+a chronometer
+a compass
+a crew
+a fire extinguisher
+a first aid kit
+a flare gun
+a life jacket
+a life raft
+a map
+a radio
+a sextant
+a telescope

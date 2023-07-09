@@ -1,0 +1,11 @@
+a boat
+a compass
+a fire extinguisher
+a gps
+a life jacket
+a map of the area
+a propeller
+a radio
+a rudder
+an engine
+tools

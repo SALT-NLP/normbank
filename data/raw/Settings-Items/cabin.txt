@@ -1,0 +1,30 @@
+a axe
+a bed
+a bible
+a blanket
+a broom
+a bucket
+a can opener
+a chair
+a coffee pot
+a comforter
+a drill
+a dustpan
+a fridge
+a hammer
+a lantern
+a mop
+a pillow
+a saw
+a screwdriver
+a set of dishes
+a set of sheets
+a set of towels
+a shovel
+a sink
+a stove
+a table
+a toaster
+nails
+pots and pans
+silverware

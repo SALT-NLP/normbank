@@ -1,0 +1,13 @@
+bulbs
+container
+hoe
+hose
+mulch
+rake
+seed packets
+soil
+spade
+stones
+trowel
+watering can
+weeder

@@ -1,0 +1,9 @@
+a belt
+a bridle
+a cowboy hat
+a cowboy jacket
+a horse
+a saddle
+a shirt
+boots
+jeans

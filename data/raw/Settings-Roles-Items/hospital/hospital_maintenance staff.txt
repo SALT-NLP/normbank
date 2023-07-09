@@ -1,0 +1,8 @@
+a broom
+a cleaning solution
+a dust cloth
+a dustpan and brush
+a mop and bucket
+a rag
+a sponge
+a vacuum cleaner

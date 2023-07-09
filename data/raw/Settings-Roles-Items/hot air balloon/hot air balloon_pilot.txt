@@ -1,0 +1,5 @@
+a basket
+a burner
+a fuel source
+a hot air balloon
+a way to control the balloon's altitude

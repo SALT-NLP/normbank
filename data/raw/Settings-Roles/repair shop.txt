@@ -1,0 +1,5 @@
+diagnostician
+manager
+mechanic
+receptionist
+secretary

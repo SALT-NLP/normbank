@@ -1,0 +1,12 @@
+all-purpose cleaner
+broom
+cleaning supplies
+duster
+furniture polish
+mop
+rags
+sponges
+tile cleaner
+toilet cleaner
+vacuum
+window cleaner

@@ -1,0 +1,16 @@
+a cornerback
+a defensive lineman
+a field goal post
+a football
+a football holder
+a kicking tee
+a linebacker
+a longsnapper
+a quarterback
+a running back
+a safety
+a tight end
+a wide receiver
+an offensive lineman
+two goal posts
+yard markers

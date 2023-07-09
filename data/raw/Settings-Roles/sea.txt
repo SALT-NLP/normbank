@@ -1,0 +1,9 @@
+captain
+cook
+deckhand
+engineer
+first mate
+fisherman
+fishmonger
+sailor
+steward

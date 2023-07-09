@@ -1,0 +1,5 @@
+a class of students
+a classroom
+a curriculum
+a teacher
+supplies

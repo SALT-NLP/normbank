@@ -1,0 +1,6 @@
+city attorney
+city clerk
+city council member
+city manager
+city treasurer
+mayor

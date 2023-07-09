@@ -1,0 +1,4 @@
+barista
+cashier
+manager
+stocker

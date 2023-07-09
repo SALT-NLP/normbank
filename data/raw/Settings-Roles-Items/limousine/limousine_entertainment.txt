@@ -1,0 +1,8 @@
+a bar
+a CD player
+a DVD player
+a microphone
+a privacy partition
+a sound system
+a TV
+an iPod dock

@@ -1,0 +1,4 @@
+a list of the parts that the dealership sells
+a price list for the parts
+a way to order parts from suppliers
+a way to track inventory levels

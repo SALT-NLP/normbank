@@ -1,0 +1,9 @@
+a bowl
+a brush
+a cape
+a comb
+a timer
+a towel
+color
+developer
+gloves

@@ -1,0 +1,13 @@
+a broom
+a bucket
+a cleaning cloth
+a dustpan
+a helmet
+a key
+a lantern
+a map
+a mop
+a shield
+a suit of armor
+a sword
+a torch

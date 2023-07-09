@@ -1,0 +1,298 @@
+abdominal pain
+acne
+addison's disease
+airsickness
+allergies
+alzheimer's disease
+anal cancer
+anaphylaxis
+aneurysm
+angioedema
+ankylosing spondylitis
+anorexia
+anxiety
+appendicitis
+arthritis
+asbestosis
+asthma
+ADHD
+autistic spectrum disorder (asd)
+back pain
+bacterial vaginosis
+benign prostate enlargement
+bile duct cancer
+binge eating
+bipolar disorder
+bladder cancer
+blood poisoning
+bone cancer
+bowel cancer
+bowel incontinence
+bowel polyps
+brain stem death
+brain cancer
+brain injury
+breast cancer
+bronchiectasis
+bronchitis
+bulimia
+bunion
+carcinoid syndrome
+catarrh
+cellulitis
+cervical cancer
+chest infection
+chest pain
+chickenpox
+chilblains
+chlamydia
+cholecystitis
+chronic obstructive pulmonary disease
+chronic pain
+cirrhosis
+clostridium difficile
+coeliac disease
+cold sore
+coma
+common cold
+common heart condition
+congenital heart disease
+conjunctivitis
+constipation
+coronavirus
+cough
+crohn's disease
+croup
+cystic fibrosis
+cystitis
+deafness
+deafblindness
+deep vein thrombosis
+dehydration
+dementia
+dental abscess
+depression
+dermatitis herpetiformis
+diabetes
+diarrhoea
+diverticular disease
+dizziness
+down's syndrome
+dry mouth
+dwarfism
+dyslexia
+dyspraxia
+dystonia
+earache
+earwax build-up
+ebola virus disease
+ectopic pregnancy
+eczema
+endometriosis
+epilepsy
+erectile dysfunction
+e. coli
+ewing sarcoma
+eye cancer
+febrile seizures
+fever
+fibroids
+fibromyalgia
+flu
+foetal alcohol syndrome
+food poisoning
+fungal infection
+fungal nail infection
+gallbladder cancer
+gallstones
+ganglion cyst
+gastroenteritis
+gastro-oesophageal reflux disease (gord)
+genital herpes
+genital warts
+germ cell tumours
+glandular fever
+glaucoma
+gonorrhoea
+gout
+gum disease
+haemorrhoids
+hand, foot and mouth disease
+hay fever
+head and neck cancer
+head lice and nits
+headaches
+hearing impairment
+hearing loss
+heart failure
+hemophilia
+hepatitis a
+hepatitis b
+hepatitis c
+hiatus hernia
+high cholesterol
+hiv
+hodgkin lymphoma
+huntington's disease
+high blood sugar
+hyperhidrosis
+idiopathic pulmonary fibrosis
+impetigo
+indigestion
+ingrown toenail
+inherited heart conditions
+insomnia
+iron deficiency anaemia
+irritable bowel syndrome (ibs)
+irritable hip
+itching
+itchy bottom
+jaundice
+kaposi's sarcoma
+kidney cancer
+kidney disease
+kidney infection
+kidney stones
+labyrinthitis
+lactose intolerance
+langerhans cell histiocytosis
+laryngeal cancer
+laryngitis
+learning disability
+leg cramps
+leukaemia
+lichen planus
+liver cancer
+liver disease
+loss of libido
+low blood sugar
+lung cancer
+lupus
+lyme disease
+lymphoedema
+lymphogranuloma venereum (lgv)
+malaria
+malignant brain tumour (cancerous)
+malnutrition
+measles
+meningitis
+menopause
+mesothelioma
+middle ear infection (otitis media)
+migraine
+miscarriage
+motor neurone disease (mnd)
+mouth cancer
+mouth ulcer
+multiple myeloma
+multiple sclerosis (ms)
+mumps
+meniere's disease
+nasal and sinus cancer
+nasopharyngeal cancer
+neuroblastoma
+neuroendocrine tumours
+non-alcoholic fatty liver disease (nafld)
+non-hodgkin lymphoma
+norovirus
+nosebleed
+obesity
+obsessive compulsive disorder (ocd)
+obstructive sleep apnoea
+oesophageal cancer
+oral thrush
+osteoarthritis
+osteoporosis
+osteosarcoma
+otitis externa
+ovarian cancer
+ovarian cyst
+overactive thyroid
+paget's disease of the nipple
+pancreatic cancer
+pancreatitis
+panic disorder
+parkinson's disease
+pelvic inflammatory disease
+pelvic organ prolapse
+penile cancer
+peripheral neuropathy
+personality disorder
+pleurisy
+pneumonia
+polymyalgia rheumatica
+post-traumatic stress disorder (ptsd)
+postnatal depression
+pregnancy and baby
+pressure ulcers
+prostate cancer
+psoriasis
+psoriatic arthritis
+psychosis
+pubic lice
+raynaud's phenomenon
+reactive arthritis
+restless legs syndrome
+retinoblastoma
+rhabdomyosarcoma
+rheumatoid arthritis
+ringworm
+rosacea
+scabies
+scarlet fever
+schizophrenia
+scoliosis
+septic shock
+shingles
+shortness of breath
+sickle cell disease
+sinusitis
+sjogren's syndrome
+skin cancer
+slapped cheek syndrome
+soft tissue sarcomas
+sore throat
+spleen problems
+stillbirth
+stomach ache
+stomach cancer
+stomach ulcer
+stress, anxiety and low mood
+stroke
+sudden infant death syndrome (sids)
+suicide
+sunburn
+swallowing problems
+swollen glands
+syphilis
+testicular cancer
+testicular lumps and swellings
+thirst
+threadworms
+thyroid cancer
+tinnitus
+tonsillitis
+tooth decay
+toothache
+transient ischaemic attack (tia)
+trigeminal neuralgia
+tuberculosis (tb)
+type 1 diabetes
+type 2 diabetes
+trichomonas infection
+ulcerative colitis
+underactive thyroid
+urinary incontinence
+urinary tract infection (uti)
+urticaria (hives)
+vaginal cancer
+vaginal thrush
+venous leg ulcer
+vertigo
+vitamin b12 or folate deficiency anaemia
+vulval cancer
+warts
+whooping cough
+wilms’ tumour
+uterine (endometrial) cancer
+yellow fever

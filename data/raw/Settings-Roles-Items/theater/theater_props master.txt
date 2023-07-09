@@ -1,0 +1,14 @@
+chairs
+couches
+glue
+hammer
+lamps
+nails
+paint
+paper
+pencils
+rugs
+saw
+scissors
+tables
+tape

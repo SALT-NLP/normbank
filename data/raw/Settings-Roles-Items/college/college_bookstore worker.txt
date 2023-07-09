@@ -1,0 +1,5 @@
+a list of the books that are new in the store
+a list of the books that are on clearance
+a list of the books that are popular among students
+a list of the books that are recommended for each class
+a list of the books that are required for each class

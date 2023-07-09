@@ -1,0 +1,10 @@
+a chronometer
+a compass
+a helm
+a navigational chart
+a radar
+a radio
+a sextant
+a sonar
+a telescope
+binoculars

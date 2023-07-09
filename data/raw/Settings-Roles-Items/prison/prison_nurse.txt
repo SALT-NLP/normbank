@@ -1,0 +1,11 @@
+a blood pressure cuff
+a blood sugar testing kit
+a defibrillator
+a first aid kit
+a glucometer
+a resuscitation mask
+a sphygmomanometer
+a stethoscope
+a tensiometer
+a thermometer
+a urine testing kit

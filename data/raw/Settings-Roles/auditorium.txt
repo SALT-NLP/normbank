@@ -1,0 +1,5 @@
+concession stand worker
+custodian
+janitor
+ticket taker
+usher

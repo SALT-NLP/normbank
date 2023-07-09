@@ -1,0 +1,7 @@
+a calculator
+a cash register
+a list of showtimes
+a pen and paper
+a sign with the movie title and showtimes
+a ticket booth
+tickets

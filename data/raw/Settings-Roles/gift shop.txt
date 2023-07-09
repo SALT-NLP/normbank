@@ -1,0 +1,4 @@
+cashier
+sales clerk
+stock clerk
+store manager

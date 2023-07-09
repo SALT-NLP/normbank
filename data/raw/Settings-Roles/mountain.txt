@@ -1,0 +1,6 @@
+hiker
+mountain biker
+mountaineer
+rock climber
+skier
+snowboarder

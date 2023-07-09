@@ -1,0 +1,4 @@
+adventurer
+researcher
+spelunker
+tour guide

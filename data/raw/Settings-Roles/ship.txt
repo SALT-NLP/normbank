@@ -1,0 +1,14 @@
+assistant cook
+boatswain
+captain
+chief engineer
+chief steward
+cook
+first assistant engineer
+first mate
+purser
+second assistant engineer
+second mate
+second steward
+third assistant engineer
+third steward

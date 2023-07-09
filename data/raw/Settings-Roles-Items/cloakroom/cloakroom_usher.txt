@@ -1,0 +1,7 @@
+a list of assigned seating
+a list of people who are attending the event
+a list of special needs guests
+a list of VIP guests
+a schedule of events
+a way to keep track of lost and found items
+name tag

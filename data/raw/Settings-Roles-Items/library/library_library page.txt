@@ -1,0 +1,4 @@
+a list of the books that are currently checked out
+a list of books that are due to be returned
+a list of books that are on hold
+a list of books that are available for checkout

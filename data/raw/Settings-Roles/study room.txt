@@ -1,0 +1,5 @@
+note taker
+presenter
+recorder
+study group leader
+time keeper

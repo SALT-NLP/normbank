@@ -1,0 +1,9 @@
+a compass
+a gps
+a map
+a megaphone
+a spotter plane
+a telephone
+a watch
+binoculars
+radio

@@ -1,0 +1,6 @@
+a dais
+a gavel
+a lectern
+a podium
+a rostrum
+a sound system

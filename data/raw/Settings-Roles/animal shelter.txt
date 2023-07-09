@@ -1,0 +1,5 @@
+animal caretaker
+animal control officer
+animal shelter manager
+animal shelter volunteer
+vet technician

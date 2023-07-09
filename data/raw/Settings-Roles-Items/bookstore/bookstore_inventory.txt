@@ -1,0 +1,4 @@
+a computer to track inventory
+a list of books in the store
+a phone to call suppliers
+a printer to print labels

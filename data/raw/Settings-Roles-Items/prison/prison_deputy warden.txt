@@ -1,0 +1,19 @@
+a camera
+a chair
+a computer
+a copier
+a desk
+a dvd player
+a fax machine
+a filing cabinet
+a laptop
+a microphone
+a pa system
+a phone
+a printer
+a projector
+a scanner
+a tape recorder
+a tv
+a vcr
+a whiteboard

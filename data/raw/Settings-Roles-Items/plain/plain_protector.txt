@@ -1,0 +1,13 @@
+a bathroom
+a bed
+a chair
+a computer
+a desk
+a fridge
+a phone
+a radio
+a shower
+a sink
+a stove
+a table
+a tv

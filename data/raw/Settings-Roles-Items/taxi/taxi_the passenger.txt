@@ -1,0 +1,4 @@
+a seatbelt
+a way to communicate with the driver
+a way to exit the taxi
+a way to pay the fare

@@ -1,0 +1,6 @@
+a budget for activities
+a list of activities available in the area
+a way to communicate with participants
+a way to promote the event
+a way to track RSVPs 
+a way to track payments

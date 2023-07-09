@@ -1,0 +1,6 @@
+canteen
+compass
+first aid kit
+flashlight
+knife
+matches

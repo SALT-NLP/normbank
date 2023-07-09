@@ -1,0 +1,10 @@
+bartender
+croupier
+dealer
+floor manager
+housekeeper
+pit boss
+security guard
+slot technician
+table games dealer
+waitress

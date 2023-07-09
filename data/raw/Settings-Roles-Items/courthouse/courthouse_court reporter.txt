@@ -1,0 +1,4 @@
+notebook
+microphone
+stenotype
+a pen

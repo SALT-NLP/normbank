@@ -1,0 +1,6 @@
+a fire extinguisher
+a first-aid kit
+a list of stops
+a map of the area
+a schedule of when to pick up and drop off passengers
+a way to collect fares

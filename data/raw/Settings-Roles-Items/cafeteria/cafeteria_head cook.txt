@@ -1,0 +1,12 @@
+chairs
+cooking utensils
+food
+freezer
+ingredients
+oven
+pans
+pots
+refrigerator
+sink
+stove
+table

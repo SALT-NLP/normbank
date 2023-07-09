@@ -1,0 +1,11 @@
+a broom
+a bucket
+a cooler
+a fire extinguisher
+a first-aid kit
+a hose
+a pitchfork
+a rake
+a shovel
+a tarp
+a wheelbarrow

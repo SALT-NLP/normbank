@@ -1,0 +1,8 @@
+a calendar
+a clock
+a computer
+a phone
+a printer
+a stapler
+paper
+pens

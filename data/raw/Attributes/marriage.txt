@@ -1,0 +1,5 @@
+single
+engaged
+married
+separated
+widowed

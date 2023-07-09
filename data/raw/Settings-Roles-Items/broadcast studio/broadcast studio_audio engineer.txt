@@ -1,0 +1,7 @@
+a digital audio workstation
+a microphone
+a mixing console
+an audio interface
+cables
+headphones
+speakers

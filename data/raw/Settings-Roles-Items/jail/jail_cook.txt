@@ -1,0 +1,14 @@
+a chair
+a cupboard
+a cutting board
+a fork
+a fridge
+a knife
+a pan
+a pantry
+a pot
+a sink
+a spoon
+a stove
+a table
+an oven

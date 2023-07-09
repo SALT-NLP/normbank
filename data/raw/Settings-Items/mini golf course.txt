@@ -1,0 +1,3 @@
+a golf ball,
+a golf club,
+a mini golf course map

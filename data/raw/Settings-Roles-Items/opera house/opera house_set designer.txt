@@ -1,0 +1,5 @@
+a large stage
+costumes
+lights
+props
+scenery

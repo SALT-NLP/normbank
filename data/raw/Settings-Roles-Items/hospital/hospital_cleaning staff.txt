@@ -1,0 +1,6 @@
+bucket
+disinfectant
+gloves
+mop
+rags
+trash bags

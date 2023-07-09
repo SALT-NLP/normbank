@@ -1,0 +1,6 @@
+a list of the contact information for the arcade
+a list of the games that are in the arcade
+a list of the hours the arcade is open
+a list of the prices for the games
+a list of the prizes that can be won
+a list of the rules for the arcade

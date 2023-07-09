@@ -1,0 +1,8 @@
+bus person
+cook
+dishwasher
+executive chef
+host or hostess
+prep cook
+server
+sous chef

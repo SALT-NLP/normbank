@@ -1,0 +1,5 @@
+a list of emergency procedures
+a list of first aid procedures
+a list of potential hazards in the workplace
+a list of safety equipment
+a list of safety regulations

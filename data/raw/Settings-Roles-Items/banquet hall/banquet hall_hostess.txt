@@ -1,0 +1,17 @@
+a bartender
+a kitchen staff
+a microphone
+a podium
+a projector
+a screen
+a sound system
+a stage
+a waitstaff
+chairs
+dishes
+glassware
+lights
+place settings
+silverware
+tablecloths
+tables

@@ -1,0 +1,56 @@
+a bed
+a bible
+a book
+a bookshelf
+a box
+a calendar
+a chair
+a clock
+a coffee table
+a computer
+a copier
+a couch
+a desk
+a dresser
+a dvd player
+a envelope
+a eraser
+a fax machine
+a file cabinet
+a fireplace
+a lamp
+a laptop
+a letter
+a locker
+a marker
+a microphone
+a nightstand
+a notepad
+a package
+a paper
+a paperclip
+a pen
+a pencil
+a phone
+a picture frame
+a plant
+a post-it note
+a printer
+a projector
+a rug
+a safe
+a scissors
+a screen
+a shipping label
+a stamp
+a stapler
+a staples
+a stereo
+a table
+a tape
+a tape dispenser
+a television
+a vase
+a vault
+a wastebasket
+a whiteboard

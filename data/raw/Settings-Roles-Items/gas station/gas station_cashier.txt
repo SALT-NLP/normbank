@@ -1,0 +1,6 @@
+a calculator
+a float (money for making change)
+a pen and paper
+a register
+a supply of bills
+a supply of coins

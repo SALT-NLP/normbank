@@ -1,0 +1,12 @@
+beakers
+bunsen burners
+chairs
+furniture
+tables
+gloves
+lab equipment
+pipettes
+lab supplies
+test tubes
+safety equipment
+goggles

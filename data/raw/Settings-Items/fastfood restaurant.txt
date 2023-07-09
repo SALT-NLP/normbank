@@ -1,0 +1,14 @@
+a drink
+a fork
+a knife
+a menu
+a napkin
+a place to sit
+a spoon
+a straw
+ketchup
+mayo
+mustard
+pepper
+relish
+salt

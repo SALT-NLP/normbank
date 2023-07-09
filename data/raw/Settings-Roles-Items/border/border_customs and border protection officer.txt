@@ -1,0 +1,10 @@
+a badge
+a baton
+a flashlight
+a gun
+a handcuffs
+a nightstick
+a pepper spray
+a taser
+a uniform
+a vehicle

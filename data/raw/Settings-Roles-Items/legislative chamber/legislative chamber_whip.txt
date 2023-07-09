@@ -1,0 +1,5 @@
+a list of the votes that are scheduled for the day
+a list of the votes that are scheduled for the future
+a list of the votes that are still being debated
+a list of the votes that are not yet decided
+a list of the votes that have already been decided

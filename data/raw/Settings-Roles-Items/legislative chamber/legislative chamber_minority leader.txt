@@ -1,0 +1,7 @@
+a list of the bills that have been introduced in the chamber
+a list of the bills that have been passed by the chamber
+a list of the bills that have been vetoed by the chamber
+a list of the committees in the chamber and their members
+a list of the members of my caucus
+a list of the members of the majority caucus
+a list of the members of the opposition caucus

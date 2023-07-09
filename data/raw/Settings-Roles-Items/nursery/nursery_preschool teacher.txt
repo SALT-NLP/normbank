@@ -1,0 +1,9 @@
+a blackboard
+a bookshelf
+a calendar
+a changing table
+a clock
+a crib
+a rocking chair
+a rug
+a toy box

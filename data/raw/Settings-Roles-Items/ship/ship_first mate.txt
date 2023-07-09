@@ -1,0 +1,5 @@
+a chronometer
+a compass
+a sextant
+a signal flag
+a spyglass

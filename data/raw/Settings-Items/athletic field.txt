@@ -1,0 +1,12 @@
+a ball
+a bat
+a catcher's glove
+a catcher's mask
+a fence
+a glove
+a helmet
+a home plate
+a pitcher's mound
+first base
+second base
+third base

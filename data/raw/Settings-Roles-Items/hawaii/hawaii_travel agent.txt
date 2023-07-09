@@ -1,0 +1,10 @@
+a list of activities that are popular with tourists
+a list of attractions that are popular with tourists
+a list of popular tourist destinations
+a list of restaurants that are popular with tourists
+information on car rentals
+information on hotels
+information on accommodations
+information on transportation options
+information on shuttle services
+information on vacation rentals

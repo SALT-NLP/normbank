@@ -1,0 +1,11 @@
+a drawbridge
+a hidden room
+a large
+a moat
+a secret escape route
+archer's windows in the towers
+hidden passages
+tall towers for lookout posts
+thick walls
+trapdoors
+well-fortified main gate

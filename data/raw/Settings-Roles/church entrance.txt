@@ -1,0 +1,5 @@
+greeter
+newcomers host
+offering taker
+usher
+welcomer

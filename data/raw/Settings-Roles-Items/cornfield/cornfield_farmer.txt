@@ -1,0 +1,6 @@
+a combine
+a grain bin
+a harvester
+a plow
+a silo
+a tractor

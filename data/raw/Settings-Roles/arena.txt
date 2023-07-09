@@ -1,0 +1,4 @@
+coach
+player
+referee
+spectator

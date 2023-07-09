@@ -1,0 +1,6 @@
+a camera for taking inventory pictures
+a cash register
+a computer for ordering supplies and keeping track of inventory
+a list of the day's tasks
+a phone for ordering supplies and calling customers
+a printer for making labels and signs

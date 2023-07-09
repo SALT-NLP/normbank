@@ -1,0 +1,4 @@
+a stock associate might need a ladder to reach items on high shelves
+a stock associate might need a store map to know where products are located
+they might need a cart to transport items
+they might need a hand-held scanner to scan products and track inventory

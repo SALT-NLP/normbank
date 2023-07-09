@@ -1,0 +1,5 @@
+a list of the park's amenities
+a map of the park
+a schedule of events for the park
+contact information for the park's staff
+the park's rules and regulations

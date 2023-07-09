@@ -1,0 +1,10 @@
+a cart
+a mask
+a paper
+a pen
+bottles
+boxes
+cans
+gloves
+labels
+packages

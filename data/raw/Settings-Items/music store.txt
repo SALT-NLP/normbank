@@ -1,0 +1,12 @@
+amplifiers
+cymbals
+drums
+drumsticks
+guitars
+instrument cases
+instrument straps
+instrument strings
+keyboards
+pianos
+picks
+sheet music

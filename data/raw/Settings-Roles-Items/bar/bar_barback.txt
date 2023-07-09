@@ -1,0 +1,10 @@
+beer
+champagne
+cups
+glasses
+ice
+liquor
+mixers
+napkins
+straws
+wine

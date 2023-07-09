@@ -1,0 +1,11 @@
+a crowbar
+a dust mask
+a flashlight
+a hard hat
+a pair of gloves
+a pair of pliers
+a screwdriver
+a sledgehammer
+a wrench
+earplugs
+safety goggles

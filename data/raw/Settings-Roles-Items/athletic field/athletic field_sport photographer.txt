@@ -1,0 +1,5 @@
+a camera
+a flash
+a tripod
+a wide angle lens
+a zoom lens

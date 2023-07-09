@@ -1,0 +1,7 @@
+a dehumidifier
+a drainage hose
+a humidistat
+a hygrometer
+a sump pit
+a sump pump
+a water pump

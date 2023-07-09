@@ -1,0 +1,9 @@
+a list of flights
+a map of the airport
+a place to sit
+boarding pass
+id
+luggage
+money
+passport
+ticket

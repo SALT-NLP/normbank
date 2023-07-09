@@ -1,0 +1,47 @@
+a balance
+a beaker
+a buchner funnel
+a bunsen burner
+a büchner flask
+a centrifuge
+a computer
+a coverslip
+a erlenmeyer flask
+a filter funnel
+a flask
+a forceps
+a freezer
+a fridge
+a fritted funnel
+a funnel
+a glass rod
+a gooch crucible
+a graduated cylinder
+a hot plate
+a incubator
+a large work area
+a microscope
+a microscope slide
+a microtome
+a paraff
+a ph meter
+a pipette
+a porcelain dish
+a printer
+a scalpel
+a shaker
+a sintered glass funnel
+a slide cabinet
+a slide holder
+a slide warmer
+a spatula
+a staining rack
+a staining tray
+a stirrer
+a stirring rod
+a tongs
+a vacuum filtration setup
+a vacuum pump
+a watch glass
+a water bath
+a workbench

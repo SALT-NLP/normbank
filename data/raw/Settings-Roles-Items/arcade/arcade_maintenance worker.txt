@@ -1,0 +1,14 @@
+a broom
+a bucket
+a dustpan
+a first aid kit
+a flashlight
+a hammer
+a ladder
+a mop
+a rag
+a screwdriver
+a trash can
+a vacuum cleaner
+a wrench
+pliers

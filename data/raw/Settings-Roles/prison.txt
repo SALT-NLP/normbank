@@ -1,0 +1,10 @@
+captain
+cook
+correctional officer
+counselor
+deputy warden
+lieutenant
+nurse
+sergeant
+teacher
+warden

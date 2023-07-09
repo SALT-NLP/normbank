@@ -1,0 +1,11 @@
+a laptop or tablet
+a list of patients' allergies
+a list of patients' community resources
+a list of patients' diagnoses
+a list of patients' family members and friends
+a list of patients' financial resources
+a list of patients' insurance information
+a list of patients' legal resources
+a list of patients' medications
+a list of patients' names and contact information
+a notepad and pen

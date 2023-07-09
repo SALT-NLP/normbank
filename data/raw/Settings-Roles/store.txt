@@ -1,0 +1,5 @@
+bagger
+cashier
+customer service representative
+floor manager
+stock clerk

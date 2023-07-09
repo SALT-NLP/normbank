@@ -1,0 +1,8 @@
+a gavel
+a microphone
+a podium
+a sign with the auctioneer's name
+a sound system
+a table for displaying items
+an assistant to help run the auction
+chairs for the audience

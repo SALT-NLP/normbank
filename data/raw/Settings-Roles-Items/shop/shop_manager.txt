@@ -1,0 +1,36 @@
+a calendar
+a camera
+a carbon monoxide detector
+a chair
+a clock
+a coffee maker
+a computer
+a copier
+a desk
+a dishwasher
+a door alarm
+a fax machine
+a filing cabinet
+a fire extinguisher
+a first aid kit
+a garbage can
+a keycard reader
+a microwave
+a mini-fridge
+a motion sensor
+a phone
+a printer
+a recycling bin
+a safe
+a scanner
+a security system
+a shredder
+a sink
+a smoke detector
+a toaster oven
+a vault
+a water cooler
+a whiteboard
+a window alarm
+an emergency exit map
+an evacuation plan

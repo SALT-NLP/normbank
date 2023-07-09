@@ -1,0 +1,4 @@
+a control panel to manage the audio and video
+a large monitor to see what is being recorded
+a microphone to speak to the people in the studio
+headphones to hear what is being recorded

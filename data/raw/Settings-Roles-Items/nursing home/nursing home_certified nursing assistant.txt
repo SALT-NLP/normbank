@@ -1,0 +1,10 @@
+a bed
+a dresser
+a lamp
+a nightstand
+a raised toilet seat
+a shower chair
+a telephone
+a television
+a walker
+a wheelchair

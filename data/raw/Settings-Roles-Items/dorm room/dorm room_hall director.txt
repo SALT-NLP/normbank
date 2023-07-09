@@ -1,0 +1,11 @@
+a bathroom
+a bed
+a closet
+a computer
+a desk
+a dresser
+a DVD player
+a phone
+a printer
+a stereo
+a tv

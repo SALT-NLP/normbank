@@ -1,0 +1,13 @@
+a cleaning schedule
+a list of bar staff and their contact information
+a list of beer brands and their prices
+a list of cleaning supplies
+a list of contact information for suppliers
+a list of emergency contact numbers
+a list of equipment and supplies needed for the bar
+a list of liquor brands and their prices
+a list of suppliers
+a list of wine brands and their prices
+a price list for bar snacks
+a price list for non-alcoholic drinks
+cocktail recipes

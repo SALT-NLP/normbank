@@ -1,0 +1,7 @@
+a calculator
+a credit card machine
+a float
+a music store loyalty card
+a pen and paper
+a register
+a till

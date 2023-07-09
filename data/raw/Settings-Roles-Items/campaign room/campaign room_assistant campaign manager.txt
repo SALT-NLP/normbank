@@ -1,0 +1,7 @@
+a calendar of upcoming events
+a list of campaign donors
+a list of campaign supporters
+a list of media contacts
+a list of potential campaign volunteers
+a list of targeted voters
+a list of tasks that need to be completed

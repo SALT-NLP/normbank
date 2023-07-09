@@ -1,0 +1,4 @@
+gunsmith
+manager
+sales associate
+security guard

@@ -1,0 +1,8 @@
+a crane
+a dock
+a hoist
+a office
+a ramp
+a storage area
+a winch
+a workshop

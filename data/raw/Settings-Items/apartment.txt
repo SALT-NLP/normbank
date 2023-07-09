@@ -1,0 +1,9 @@
+a bed
+a chair
+a desk
+a dresser
+a lamp
+a laptop
+a tv
+an xbox
+furniture

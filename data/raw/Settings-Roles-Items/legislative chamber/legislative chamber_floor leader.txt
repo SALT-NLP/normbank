@@ -1,0 +1,6 @@
+a copy of the chamber's calendar
+a copy of the chamber's rules
+a gavel
+a list of the bills that will be considered
+a list of the chamber's rules
+a list of the members of the chamber

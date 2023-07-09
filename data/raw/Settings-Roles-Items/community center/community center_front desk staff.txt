@@ -1,0 +1,11 @@
+a chair
+a computer
+a desk
+a list of community center amenities
+a list of community center events
+a list of community center rules
+a map of the community center
+a name tag
+a phone
+a printer
+a sign-in sheet

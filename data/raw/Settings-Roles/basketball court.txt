@@ -1,0 +1,5 @@
+a coach
+a fan
+a player
+a referee
+a scorekeeper

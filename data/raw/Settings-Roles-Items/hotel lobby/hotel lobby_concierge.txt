@@ -1,0 +1,6 @@
+a list of local attractions
+a list of local businesses
+a list of local events
+a list of local restaurants
+a list of local transportation options
+a map of the area

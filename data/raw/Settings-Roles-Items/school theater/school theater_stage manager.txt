@@ -1,0 +1,7 @@
+a copy of the play's schedule
+a list of costumes needed for the play
+a list of lighting cues needed for the play
+a list of props needed for the play
+a list of set pieces needed for the play
+a list of sound cues needed for the play
+a script of the play

@@ -1,0 +1,8 @@
+a budget
+a list of all the exhibitors
+a list of sponsors
+a list of vip guests
+a map of the exhibition hall
+a schedule of events
+security protocols
+staff schedules

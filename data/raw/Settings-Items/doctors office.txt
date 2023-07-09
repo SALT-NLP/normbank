@@ -1,0 +1,5 @@
+a doctor
+a nurse
+a receptionist
+a waiting room
+an examination room

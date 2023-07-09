@@ -1,0 +1,7 @@
+a character generator
+a computer
+a digital audio console
+a monitor
+a tape deck
+a video camera
+a video switcher

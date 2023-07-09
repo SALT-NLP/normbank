@@ -1,0 +1,6 @@
+a budget for purchasing art
+a floor plan of the gallery
+a list of art collectors
+a list of potential donors
+a list of the artists represented by the gallery
+a schedule of upcoming exhibitions

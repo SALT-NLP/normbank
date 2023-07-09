@@ -1,0 +1,9 @@
+conductor
+costume designer
+librettist
+lighting designer
+make-up artist
+performer
+set designer
+stage manager
+wigmaker

@@ -1,0 +1,15 @@
+a cash register
+a computer
+a fax machine
+a printer
+a register
+a scanner
+bags
+chairs
+counters
+displays
+inventory
+labels
+shelves
+tables
+tape

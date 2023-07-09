@@ -1,0 +1,7 @@
+a deli case
+a deli counter
+a freezer
+a meat slicer
+a refrigerator
+a sink
+some storage shelves

@@ -1,0 +1,4 @@
+hall director
+RA
+resident
+visitor

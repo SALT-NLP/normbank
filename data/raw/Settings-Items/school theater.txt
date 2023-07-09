@@ -1,0 +1,6 @@
+a concessions stand
+a lighting system
+a sound system
+a stage
+a ticketing system
+seating for the audience

@@ -1,0 +1,9 @@
+a budget
+a cast
+a crew
+a director
+a script
+a theatre
+costumes
+props
+set design

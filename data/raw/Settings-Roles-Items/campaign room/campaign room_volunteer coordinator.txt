@@ -1,0 +1,5 @@
+a list of the tasks that need to be completed
+a way to communicate with other volunteers
+a way to recruit new volunteers
+a way to thank volunteers
+a way to track volunteer hours

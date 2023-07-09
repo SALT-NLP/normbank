@@ -1,0 +1,5 @@
+a library of resources for volunteers
+a list of potential volunteers and their contact information
+a schedule of upcoming events and activities
+a space to hold meetings and training sessions
+a way to track volunteer hours

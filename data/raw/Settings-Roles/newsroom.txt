@@ -1,0 +1,16 @@
+assignment editor
+copy editor
+director
+field producer
+line producer
+managing editor
+news anchor
+news director
+photojournalist
+producer
+reporter
+research editor
+social media editor
+sports anchor
+weather anchor
+web editor

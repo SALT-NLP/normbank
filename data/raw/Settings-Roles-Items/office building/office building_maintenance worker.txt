@@ -1,0 +1,10 @@
+a broom
+a bucket
+a dust cloth
+a dustpan
+a ladder
+a mop
+a set of keys to the office building
+a tool box
+a vacuum cleaner
+cleaning supplies

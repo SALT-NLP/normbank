@@ -1,0 +1,5 @@
+a budget
+a list of all the buildings and rooms on campus
+a list of all the students and faculty
+a map of the campus
+a schedule of classes and events

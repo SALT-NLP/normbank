@@ -1,0 +1,6 @@
+a list of participating vendors
+a list of the day's events
+a map of the bazaar
+a schedule of entertainment
+costume
+props

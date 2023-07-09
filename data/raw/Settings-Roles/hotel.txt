@@ -1,0 +1,6 @@
+bartender
+chef
+housekeeper
+manager
+receptionist
+waiter

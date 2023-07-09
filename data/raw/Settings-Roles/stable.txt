@@ -1,0 +1,5 @@
+farrier
+groom
+rider
+trainer
+veterinarian

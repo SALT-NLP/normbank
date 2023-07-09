@@ -1,0 +1,9 @@
+a chalkboard
+a computer
+a copier
+a fax machine
+a printer
+a scanner
+a telephone
+a whiteboard
+books

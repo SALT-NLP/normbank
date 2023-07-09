@@ -1,0 +1,6 @@
+a bag to put any confiscated items in
+a copy of the airport's security protocol
+a list of all the airlines that fly in and out of the airport
+a map of the airport
+a metal detector
+a radio to communicate with other security personnel

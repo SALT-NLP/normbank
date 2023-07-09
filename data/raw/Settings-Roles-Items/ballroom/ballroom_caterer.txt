@@ -1,0 +1,7 @@
+drinks
+food
+glasses
+napkins
+plates
+silverware
+tablecloths

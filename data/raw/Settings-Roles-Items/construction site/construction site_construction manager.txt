@@ -1,0 +1,5 @@
+a list of the construction workers and their contact information
+a list of the materials needed for the construction project
+the construction project timeline
+the construction site layout
+the construction workers' schedules

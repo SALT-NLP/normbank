@@ -1,0 +1,32 @@
+a cash register
+a counter
+a fridge
+a microwave
+a sink
+a toaster
+cake
+candy
+chili
+chips
+coffee
+coffee maker
+cookies
+cups
+forks
+fruit
+juice
+knives
+mugs
+napkins
+plates
+sandwiches
+snacks
+soda
+soup
+spoons
+straws
+tea
+tea kettle
+veggies
+water
+yogurt

@@ -1,0 +1,4 @@
+leader
+navigator
+scout
+sweeper

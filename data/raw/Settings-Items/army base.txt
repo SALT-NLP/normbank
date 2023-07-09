@@ -1,0 +1,5 @@
+a list of the base's facilities
+a list of the base's personnel
+a list of the base's vehicles
+a list of the base's weapons
+a map of the base

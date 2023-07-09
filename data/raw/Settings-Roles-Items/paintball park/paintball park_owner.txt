@@ -1,0 +1,9 @@
+a barrel
+a hopper
+a marker
+a mask
+a paintball gun
+a referee
+a squeegee
+a tank of compressed air
+paintballs

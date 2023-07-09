@@ -1,0 +1,6 @@
+auctioneer
+buyer
+scrap metal dealer
+seller
+trucker
+yard worker

@@ -1,0 +1,9 @@
+a copy of the shop's business insurance policy
+a copy of the shop's firearms license
+a list of the shop's employees and their contact information
+a list of the types of accessories sold in the shop
+a list of the types of ammunition sold in the shop
+a list of the types of guns sold in the shop
+a price list for the guns
+accessories
+ammunition

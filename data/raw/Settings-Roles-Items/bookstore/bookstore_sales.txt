@@ -1,0 +1,4 @@
+a calculator to total up the cost of purchases
+a computer to look up information about products
+a credit card machine to process payments
+a pen and paper to keep track of sales

@@ -1,0 +1,7 @@
+a script
+a stage
+actors
+costumes
+lighting
+props
+sound

@@ -1,0 +1,8 @@
+a fertilizer spreader
+a garden hose
+a garden rake
+a garden spade
+a lawn mower
+a lawn roller
+a lawn sprinkler
+a wheelbarrow

@@ -1,0 +1,10 @@
+a backpack
+a blanket
+a bus ticket
+a charger
+a form of payment
+a map
+a phone
+a valid id
+snacks
+water

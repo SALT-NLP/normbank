@@ -1,0 +1,4 @@
+a calculator to total up purchase prices
+a name tag
+a pen and paper to take down customer information
+receipts

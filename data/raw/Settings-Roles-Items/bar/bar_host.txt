@@ -1,0 +1,5 @@
+a list of the drinks that will be available
+a way to collect payment
+a way to keep track of inventory
+a way to keep track of who has been served and who has not
+the prices of the drinks

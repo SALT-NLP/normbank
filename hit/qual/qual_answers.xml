@@ -1,0 +1,55 @@
+<AnswerKey xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/AnswerKey.xsd">
+  <Question>
+    <QuestionIdentifier>q_1</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>true</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>q_2</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>true</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>q_3</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>false</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>q_4</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>false</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>q_5</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>incorrect</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>
+
+  <Question>
+    <QuestionIdentifier>q_6</QuestionIdentifier>
+    <AnswerOption>
+      <SelectionIdentifier>correct</SelectionIdentifier>
+      <AnswerScore>1</AnswerScore>
+    </AnswerOption>
+  </Question>    
+
+  <QualificationValueMapping>
+    <PercentageMapping>
+      <MaximumSummedScore>6</MaximumSummedScore>
+    </PercentageMapping>
+  </QualificationValueMapping>
+</AnswerKey>

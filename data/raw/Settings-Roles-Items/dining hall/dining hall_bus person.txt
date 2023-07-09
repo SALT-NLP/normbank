@@ -1,0 +1,6 @@
+a broom
+a dishrag
+a dishwashing brush
+a dustpan
+a mop
+trash bags

@@ -1,0 +1,11 @@
+a gardening fork
+a hoe
+a packet of seeds
+a plant pot
+a rake
+a seed tray
+a spade
+a trowel
+a watering can
+a wheelbarrow
+gardening gloves

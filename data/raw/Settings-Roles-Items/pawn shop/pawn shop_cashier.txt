@@ -1,0 +1,10 @@
+a calculator
+a cash register
+a computer
+a paper
+a pen
+a phone
+a printer
+a safe
+a scanner
+a security camera

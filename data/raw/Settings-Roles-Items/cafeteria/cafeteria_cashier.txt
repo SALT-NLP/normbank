@@ -1,0 +1,11 @@
+a calculator
+a cash register
+a computer
+a credit card machine
+a fax machine
+a notepad
+a pen
+a phone
+a printer
+a scanner
+a stapler

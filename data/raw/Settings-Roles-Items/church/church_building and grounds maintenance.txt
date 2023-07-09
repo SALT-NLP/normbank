@@ -1,0 +1,8 @@
+a broom
+a dust cloth
+a dustpan
+a ladder
+a mop and bucket
+a set of keys
+a toolbox
+a vacuum cleaner

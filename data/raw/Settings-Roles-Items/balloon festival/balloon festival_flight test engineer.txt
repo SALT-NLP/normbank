@@ -1,0 +1,4 @@
+a camera to document the flight
+a gps tracker to follow the balloon's progress
+a laptop or tablet to track the progress of the balloon
+a radio to communicate with the ground crew

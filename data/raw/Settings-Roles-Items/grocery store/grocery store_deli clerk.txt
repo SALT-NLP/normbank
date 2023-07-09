@@ -1,0 +1,8 @@
+a deli case
+a deli counter
+a deli scale
+a deli slicer
+deli cheeses
+deli containers
+deli labels
+deli meats

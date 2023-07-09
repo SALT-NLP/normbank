@@ -1,0 +1,10 @@
+a bathroom
+a bed
+a blanket
+a dresser
+a lamp
+a nightstand
+a pillow
+a remote control
+a telephone
+a TV

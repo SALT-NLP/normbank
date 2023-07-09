@@ -1,0 +1,11 @@
+a camera
+a compass
+a laptop
+a level
+a list of potential locations
+a map of the area
+a notebook
+a pen
+a printer
+a tape measure
+a tripod

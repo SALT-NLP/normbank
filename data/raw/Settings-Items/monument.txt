@@ -1,0 +1,6 @@
+clothes
+first aid kit
+food
+map
+shelter
+water

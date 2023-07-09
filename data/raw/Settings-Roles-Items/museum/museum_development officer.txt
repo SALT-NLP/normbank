@@ -1,0 +1,5 @@
+a budget
+a list of potential donors
+a list of upcoming events
+a list of volunteers
+a marketing plan

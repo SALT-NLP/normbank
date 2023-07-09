@@ -1,0 +1,11 @@
+a blood oxygen monitor
+a blood pressure monitor
+a blood sugar monitor
+a centrifuge
+a fecal float
+a microscope
+a pulse oximeter
+a stethoscope
+a thermometer
+a urine dipstick
+a weight scale

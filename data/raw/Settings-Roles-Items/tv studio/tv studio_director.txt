@@ -1,0 +1,6 @@
+a camera
+a green screen
+a lighting grid
+a sound board
+a talkback system
+a vision mixer

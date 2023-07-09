@@ -1,0 +1,11 @@
+burgers
+candy
+chips
+fries
+hot dogs
+ice cream
+nachos
+popcorn
+pretzels
+soda
+water

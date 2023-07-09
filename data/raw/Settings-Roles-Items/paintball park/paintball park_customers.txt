@@ -1,0 +1,5 @@
+a paintball air tank
+a paintball gun
+a paintball hopper
+a paintball mask
+paintballs

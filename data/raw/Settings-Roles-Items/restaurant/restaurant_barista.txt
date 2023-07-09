@@ -1,0 +1,7 @@
+a coffee grinder
+a coffee machine
+a milk frother
+a mug
+a spoon
+coffee beans
+sugar

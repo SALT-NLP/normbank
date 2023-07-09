@@ -1,0 +1,9 @@
+a broom
+a bucket
+a cleaning cloth
+a cleaning solution
+a dust mask
+a dustpan
+a mop
+a vacuum cleaner
+earplugs

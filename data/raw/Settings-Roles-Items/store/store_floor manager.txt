@@ -1,0 +1,6 @@
+a floor plan of the store
+a list of tasks that need to be completed each day
+a schedule of when employees will be working
+a walkie-talkie)
+a way to communicate with employees (eg
+a way to keep track of inventory

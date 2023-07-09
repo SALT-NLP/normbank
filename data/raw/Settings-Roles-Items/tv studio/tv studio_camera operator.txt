@@ -1,0 +1,8 @@
+a camera
+a light
+a microphone
+a script
+a slate
+a teleprompter
+a tripod
+headphones

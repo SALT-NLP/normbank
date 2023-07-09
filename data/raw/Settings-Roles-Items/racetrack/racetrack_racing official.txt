@@ -1,0 +1,5 @@
+a clipboard
+a flag
+a pen
+a stopwatch
+a whistle

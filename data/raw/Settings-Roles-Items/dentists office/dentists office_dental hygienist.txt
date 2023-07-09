@@ -1,0 +1,13 @@
+dental chair
+dental drill
+dental instruments
+dental light
+dental mirror
+dental picks
+dental x-ray machine
+floss
+light
+suction device
+toothbrushes
+toothpaste
+x-ray machine

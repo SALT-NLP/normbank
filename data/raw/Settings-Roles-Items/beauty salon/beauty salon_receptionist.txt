@@ -1,0 +1,9 @@
+a calendar
+a cash register
+a computer
+a credit card machine
+a gift certificate book
+a notepad
+a pen
+a phone
+a supply of brochures

@@ -1,0 +1,14 @@
+a bathroom
+a bed
+a chair
+a coffee table
+a computer
+a couch
+a desk
+a dresser
+a dvd player
+a lamp
+a nightstand
+a stereo
+a tv
+an end table

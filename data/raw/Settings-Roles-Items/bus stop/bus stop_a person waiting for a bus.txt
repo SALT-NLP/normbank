@@ -1,0 +1,9 @@
+a bag 
+a backpack
+a book 
+a magazine
+a bus map
+a bus pass
+a bus schedule
+a phone
+money for the fare

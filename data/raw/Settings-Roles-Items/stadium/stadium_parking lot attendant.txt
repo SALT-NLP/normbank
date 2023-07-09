@@ -1,0 +1,5 @@
+a map of the parking lot
+a parking pass
+a vehicle
+a way to collect money
+a way to communicate with other parking attendants

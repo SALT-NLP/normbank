@@ -1,0 +1,12 @@
+a combine
+a disk
+a harrow
+a plow
+a seeder
+a sprayer
+a tractora harrow
+a plow
+a tractor
+fertilizer
+irrigation equipment
+seed

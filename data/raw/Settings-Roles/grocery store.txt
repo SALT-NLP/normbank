@@ -1,0 +1,6 @@
+bagger
+bakery clerk
+deli clerk
+meat clerk
+produce clerk
+stocker

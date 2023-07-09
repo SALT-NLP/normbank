@@ -1,0 +1,5 @@
+a flashlight
+a name tag
+a uniform
+a walkie-talkie
+a whistle

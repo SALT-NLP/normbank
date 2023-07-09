@@ -1,0 +1,12 @@
+a clipboard
+a list of costumes
+a list of lighting cues
+a list of makeup
+a list of props
+a list of sound cues
+a list of stage directions
+a paper
+a pen
+a schedule
+a script
+a stopwatch

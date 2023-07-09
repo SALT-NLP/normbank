@@ -1,0 +1,12 @@
+accountant
+administrative assistant
+bookkeeper
+customer service representative
+executive assistant
+human resources coordinator
+IT support
+marketing coordinator
+office coordinator
+office manager
+receptionist
+sales representative

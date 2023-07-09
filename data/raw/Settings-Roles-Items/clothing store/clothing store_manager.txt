@@ -1,0 +1,3 @@
+a way to track sales
+employees
+inventory

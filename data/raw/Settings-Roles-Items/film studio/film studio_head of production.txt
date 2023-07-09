@@ -1,0 +1,7 @@
+a adr stage
+a control room
+a editing suite
+a foley stage
+a green screen
+a sound mixing room
+a soundstage

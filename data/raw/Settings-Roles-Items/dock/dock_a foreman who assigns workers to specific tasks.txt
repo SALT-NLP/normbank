@@ -1,0 +1,4 @@
+a list of the tasks that need to be done
+a list of the workers and their skills
+a way to communicate with the workers
+a way to keep track of the workers' progress

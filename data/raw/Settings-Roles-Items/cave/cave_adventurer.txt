@@ -1,0 +1,6 @@
+a canteen
+a first aid kit
+a knife
+a map
+a rope
+a torch

@@ -1,0 +1,7 @@
+a garage
+a hydraulic lift
+a parts bin
+a parts washer
+a set of tools
+a workbench
+an air compressor

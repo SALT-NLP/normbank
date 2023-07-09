@@ -1,0 +1,10 @@
+a bookcase
+a chair
+a changing table
+a clock
+a crib
+a diaper pail
+a lamp
+a mobile
+a rug
+a toy box

@@ -1,0 +1,10 @@
+a coffee grinder
+a coffee maker
+a kettle
+a mug
+a spoon
+coffee beans
+coffee filters
+ground coffee
+milk
+sugar

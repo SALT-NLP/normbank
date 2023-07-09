@@ -1,0 +1,4 @@
+a calculator
+a menu
+a pen and paper
+a register

@@ -1,0 +1,10 @@
+actor
+actress
+costume designer
+director
+hair and makeup designer
+lighting designer
+producer
+set designer
+sound designer
+stage manager

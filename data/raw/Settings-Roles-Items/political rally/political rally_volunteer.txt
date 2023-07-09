@@ -1,0 +1,14 @@
+a id
+b hat
+c water
+d sunscreen
+e snacks
+f first aid kit
+g poster
+h sharpie
+i stapler
+j tape
+k flags
+l banners
+m bullhorn
+n megaphone

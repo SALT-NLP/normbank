@@ -1,0 +1,13 @@
+a calculator
+a camera
+a chalkboard
+a computer
+a copier
+a fax machine
+a microphone
+a pen and paper
+a phone
+a printer
+a scanner
+a speaker
+a whiteboard

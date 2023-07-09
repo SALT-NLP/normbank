@@ -1,0 +1,10 @@
+a dairy cattle shed
+a feed trough
+a hayrake
+a milk churn
+a milking machine
+a milking stool
+a pitchfork
+a tractor
+a water trough
+a wheelbarrow

@@ -1,0 +1,6 @@
+bags
+dresses
+jeans
+shoes
+skirts
+t-shirts

@@ -1,0 +1,9 @@
+accessories
+appliances
+artwork
+carpeting
+fixtures
+furniture
+paint
+props
+window treatments

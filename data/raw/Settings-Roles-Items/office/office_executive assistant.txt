@@ -1,0 +1,9 @@
+a calendar
+a computer
+a desk
+a phone
+a printer
+a stapler
+a to-do list
+paper
+pens

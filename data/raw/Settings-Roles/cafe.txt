@@ -1,0 +1,5 @@
+barista
+cashier
+cook
+dishwasher
+server

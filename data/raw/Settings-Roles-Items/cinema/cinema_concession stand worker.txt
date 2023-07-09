@@ -1,0 +1,7 @@
+a cash register
+a credit card machine
+a supply of candy
+a supply of movie posters
+a supply of movie tickets
+a supply of popcorn
+a supply of soda

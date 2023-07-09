@@ -1,0 +1,4 @@
+a film
+a projector
+a screen
+a sound system

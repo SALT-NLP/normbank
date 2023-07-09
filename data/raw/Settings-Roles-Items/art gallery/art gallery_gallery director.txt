@@ -1,0 +1,6 @@
+a budget for purchasing new art
+a list of potential new artists to represent
+a list of the art that is currently on display
+a list of the artists represented by the gallery
+a list of vip clients
+a schedule of upcoming events

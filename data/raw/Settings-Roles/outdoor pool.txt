@@ -1,0 +1,5 @@
+cashier
+lifeguard
+pool manager
+pool technician
+swim instructor

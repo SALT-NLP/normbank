@@ -1,0 +1,6 @@
+a lawn sprinkler
+a rake
+a spade
+a wheelbarrow
+fertilizer
+grass seed

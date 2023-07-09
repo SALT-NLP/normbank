@@ -1,0 +1,7 @@
+cups
+food
+grill
+napkins
+paper towels
+plates
+utensils

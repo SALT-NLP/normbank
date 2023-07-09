@@ -1,0 +1,6 @@
+decorations
+furniture
+housewares
+rent
+security deposit
+utilities

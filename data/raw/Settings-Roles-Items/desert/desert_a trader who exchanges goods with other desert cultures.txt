@@ -1,0 +1,6 @@
+camel
+clothing
+food
+tent
+trade goods
+water

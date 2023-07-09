@@ -1,0 +1,6 @@
+cashier
+cook
+game technician
+maintenance worker
+manager
+owner

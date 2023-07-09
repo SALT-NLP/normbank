@@ -1,0 +1,9 @@
+boat captain
+coast guard
+fisherman
+lighthouse keeper
+marine biologist
+oceanographer
+sailor
+sea captain
+surfer

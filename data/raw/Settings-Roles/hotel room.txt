@@ -1,0 +1,6 @@
+front desk clerk
+guest
+housekeeper
+maintenance worker
+manager
+security guard

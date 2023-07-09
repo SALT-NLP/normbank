@@ -1,0 +1,5 @@
+a list of the inmates
+a way to communicate with the inmates
+a way to contact the inmates' families
+a way to keep track of the inmates' progress
+a way to record the inmates' personal information

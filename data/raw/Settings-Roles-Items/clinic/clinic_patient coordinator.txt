@@ -1,0 +1,10 @@
+a calendar
+a clock
+a computer
+a copier
+a fax machine
+a pen and paper
+a phone
+a printer
+a scanner
+a whiteboard

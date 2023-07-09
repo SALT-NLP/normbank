@@ -1,0 +1,261 @@
+airplane cabin.txt
+airplane.txt
+airport terminal.txt
+airport.txt
+alcoholics ward.txt
+altar.txt
+amusement park.txt
+animal shelter.txt
+apartment.txt
+arcade.txt
+arena.txt
+armchair.txt
+army base.txt
+art gallery.txt
+athletic field.txt
+attic.txt
+auditorium.txt
+backyard.txt
+bakery.txt
+balcony.txt
+balloon festival.txt
+ballroom.txt
+bank.txt
+banquet hall.txt
+bar.txt
+barber shop.txt
+baseball field.txt
+basement.txt
+basketball court.txt
+bathroom.txt
+bazaar.txt
+beach house.txt
+beach.txt
+beauty salon.txt
+bed.txt
+bedroom.txt
+biology laboratory.txt
+boat.txt
+boathouse.txt
+bookstore.txt
+border.txt
+boutique.txt
+bowling alley.txt
+boxing hall.txt
+bridal shop.txt
+bridge.txt
+broadcast studio.txt
+brothel.txt
+bus stop.txt
+bus.txt
+cabin.txt
+cafe.txt
+cafeteria.txt
+camera shop.txt
+campaign room.txt
+campsite.txt
+campus.txt
+canyon.txt
+car dealership.txt
+car.txt
+casino.txt
+castle.txt
+cave.txt
+cemetery.txt
+chapel.txt
+childs room.txt
+church entrance.txt
+church.txt
+cinema.txt
+circus.txt
+city hall.txt
+city plaza.txt
+classroom.txt
+cliff.txt
+clinic.txt
+cloakroom.txt
+closet.txt
+clothing store.txt
+clubhouse.txt
+coast.txt
+coffee shop.txt
+college.txt
+community center.txt
+conference room.txt
+construction site.txt
+copy center.txt
+cornfield.txt
+cottage.txt
+country road.txt
+courthouse.txt
+courtyard.txt
+crime scene.txt
+dance studio.txt
+darkroom.txt
+deli restaurant.txt
+dentists office.txt
+department store.txt
+desert.txt
+diner.txt
+dining hall.txt
+dock.txt
+doctors office.txt
+dorm room.txt
+drawing room.txt
+drugstore.txt
+elevator.txt
+excavation.txt
+exhibition hall.txt
+fair.txt
+farm.txt
+fastfood restaurant.txt
+film studio.txt
+football field.txt
+forest.txt
+funeral home.txt
+funeral parlour.txt
+game room.txt
+garage.txt
+garden.txt
+gas station.txt
+gift shop.txt
+golf course.txt
+government office.txt
+grill.txt
+grocery store.txt
+gun shop.txt
+gym.txt
+gymnasium.txt
+hairdresser.txt
+hall.txt
+hangar.txt
+harbor.txt
+hardware store.txt
+hawaii.txt
+helicopter.txt
+hockey rink.txt
+home office.txt
+hospital mess.txt
+hospital.txt
+hot air balloon.txt
+hotel lobby.txt
+hotel pool.txt
+hotel room.txt
+hotel.txt
+house entrance.txt
+house safe.txt
+interrogation room.txt
+jail cell.txt
+jail.txt
+jewelry shop.txt
+junkyard.txt
+kindergarden.txt
+kitchen table.txt
+kitchen.txt
+lab.txt
+lake.txt
+lawn.txt
+legislative chamber.txt
+library.txt
+limousine.txt
+liquor store.txt
+living room.txt
+locker room.txt
+market.txt
+massage parlor.txt
+meadow.txt
+mental institution.txt
+military academy.txt
+mini golf course.txt
+monument.txt
+mountain.txt
+museum wing.txt
+museum.txt
+music store.txt
+newsroom.txt
+nurse room.txt
+nursery.txt
+nursing home.txt
+ocean.txt
+office building.txt
+office.txt
+opera house.txt
+outdoor cinema.txt
+outdoor pool.txt
+outdoor restaurant.txt
+paintball park.txt
+park.txt
+parking lot.txt
+patio.txt
+pawn shop.txt
+performance hall.txt
+plain.txt
+plaza.txt
+police car.txt
+police station.txt
+political rally.txt
+polo field.txt
+pool.txt
+porch.txt
+post office.txt
+prison yard.txt
+prison.txt
+private deck.txt
+pub.txt
+racetrack.txt
+ranch.txt
+repair shop.txt
+residential neighborhood.txt
+restaurant.txt
+restroom.txt
+riding arena.txt
+river.txt
+road.txt
+rodeo.txt
+rooftop.txt
+room.txt
+running track.txt
+rural road.txt
+saloon.txt
+school bus.txt
+school theater.txt
+school.txt
+sea.txt
+ship.txt
+shop.txt
+shopping mall.txt
+showroom.txt
+ski resort.txt
+smoking room.txt
+soccer field.txt
+sofa.txt
+stable.txt
+stadium.txt
+stage.txt
+steak house.txt
+store.txt
+strip club.txt
+study room.txt
+subway platform.txt
+subway.txt
+tattoo studio.txt
+taxi.txt
+telephone booth.txt
+temple.txt
+tennis court.txt
+tent.txt
+theater.txt
+train compartment.txt
+train station.txt
+tv studio.txt
+university.txt
+veterinarians office.txt
+volleyball field.txt
+waiting room.txt
+waterfall.txt
+white house.txt
+woods.txt
+yacht.txt
+yard.txt
+yoga studio.txt
+zoo.txt

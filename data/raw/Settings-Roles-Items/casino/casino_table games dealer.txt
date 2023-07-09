@@ -1,0 +1,6 @@
+a blackjack table
+a chips
+a deck of cards
+a dice
+a poker table
+a roulette table

@@ -1,0 +1,9 @@
+a dishwasher
+a freezer
+a fridge
+a prep table
+a sink
+a storage room
+a stove
+a walk-in cooler
+a walk-in freezer

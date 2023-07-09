@@ -1,0 +1,6 @@
+a mat
+a microphone
+a stopwatch
+a towel
+a water bottle
+a whistle

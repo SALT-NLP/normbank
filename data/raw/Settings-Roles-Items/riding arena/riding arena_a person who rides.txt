@@ -1,0 +1,6 @@
+a bridle
+a helmet
+a horse
+a saddle
+a whip
+boots

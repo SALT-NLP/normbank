@@ -1,0 +1,7 @@
+a broom
+a bucket
+a dustpan
+a mop
+a trash can
+a vacuum cleaner
+cleaning supplies

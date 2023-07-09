@@ -1,0 +1,10 @@
+a brush
+a dust mask
+a hammer
+a level
+a measuring tape
+a pair of gloves
+a pair of goggles
+a screwdriver
+a utility knife
+a vacuum cleaner

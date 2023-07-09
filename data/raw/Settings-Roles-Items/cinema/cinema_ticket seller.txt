@@ -1,0 +1,5 @@
+a computer or device to sell tickets
+a printer to print out tickets
+a way to check how many tickets are available for each showtime
+a way to see what movies are playing and when
+a way to take payments

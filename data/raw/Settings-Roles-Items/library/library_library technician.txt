@@ -1,0 +1,10 @@
+a library card catalog
+books
+computers
+copy machine
+fax machine
+journals
+magazines
+newspapers
+printers
+scanner

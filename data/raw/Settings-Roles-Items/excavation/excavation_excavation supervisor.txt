@@ -1,0 +1,8 @@
+backhoes
+carts
+dump trucks
+picks
+shovels
+tractors
+water
+wheelbarrows

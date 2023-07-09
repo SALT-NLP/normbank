@@ -1,0 +1,6 @@
+a calendar of fundraising events
+a list of donation amounts
+a list of donation deadlines
+a list of potential donors
+a list of volunteer duties
+a list of volunteers

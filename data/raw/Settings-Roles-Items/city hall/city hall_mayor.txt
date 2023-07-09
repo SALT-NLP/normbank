@@ -1,0 +1,10 @@
+a chair
+a computer
+a desk
+a fax machine
+a filing cabinet
+a phone
+a photocopier
+a printer
+a scanner
+a waste bin

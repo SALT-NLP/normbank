@@ -1,0 +1,6 @@
+a list of registered voters in the area
+a list of talking points
+a map of the area
+a script to follow
+a way to track which houses are supportive, undecided, or opposed
+a way to track which houses you have visited

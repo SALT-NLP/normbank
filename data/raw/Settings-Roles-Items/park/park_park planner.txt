@@ -1,0 +1,7 @@
+a budget for the park
+a list of the amenities that the park offers
+a list of the different types of parks in the area
+a list of the events that take place in the park
+a list of the rules and regulations for the park
+a map of the area
+a schedule for the park

@@ -1,0 +1,5 @@
+cleaner
+maintenance worker
+station attendant
+subway driver
+ticket taker

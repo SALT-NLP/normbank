@@ -1,0 +1,6 @@
+bartender
+box office
+coat check
+concession stand worker
+ticket taker
+usher

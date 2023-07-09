@@ -1,0 +1,10 @@
+a camera
+a compass
+a first aid kit
+a flashlight
+a guide
+a map of the cave
+a notebook
+a pen
+a snacks
+a water bottle

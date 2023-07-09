@@ -1,0 +1,9 @@
+broom
+bucket
+detergent
+disinfectant
+glass cleaner
+mop
+rags
+sponges
+trash bags

@@ -1,0 +1,10 @@
+cups
+dishcloth
+dishwashing liquid
+forks
+glasses
+knives
+plates
+soap
+sponge
+water

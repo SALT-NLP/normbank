@@ -1,0 +1,5 @@
+a budget for the college
+a calendar of events for the college
+a facilities map of the college
+a list of all the faculty and staff working in the college
+a list of all the students enrolled in the college

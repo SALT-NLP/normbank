@@ -1,0 +1,7 @@
+a bed
+a chair
+a mirror
+a sink
+a table
+a toilet
+a window

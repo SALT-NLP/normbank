@@ -1,0 +1,4 @@
+housekeeper
+manager
+receptionist
+tattoo artist

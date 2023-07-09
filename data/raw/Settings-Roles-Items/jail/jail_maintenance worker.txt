@@ -1,0 +1,11 @@
+a broom
+a bucket
+a dust cloth
+a dustpan
+a mop
+a mop bucket
+a polish cloth
+a scrub brush
+a sponge
+a vacuum cleaner
+cleaning supplies

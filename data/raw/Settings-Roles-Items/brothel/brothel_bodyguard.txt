@@ -1,0 +1,7 @@
+a baton
+a flashlight
+a gun
+a knife
+a radio
+handcuffs
+pepper spray

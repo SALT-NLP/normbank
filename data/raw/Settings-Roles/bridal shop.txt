@@ -1,0 +1,4 @@
+cashier
+manager
+sales associate
+stock associate

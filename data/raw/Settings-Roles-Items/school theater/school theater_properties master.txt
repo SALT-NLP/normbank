@@ -1,0 +1,15 @@
+brushes
+chairs
+drop cloths
+hammer
+ladders
+nails
+paint
+pliers
+saw
+scaffolding
+screwdriver
+screws
+tables
+tarp
+wire cutters

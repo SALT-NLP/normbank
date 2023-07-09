@@ -1,0 +1,10 @@
+all-purpose cleaner
+broom
+bucket
+cleaning cloths
+degreaser
+dustpan
+ladder
+scrub brush
+sponges
+window cleaner

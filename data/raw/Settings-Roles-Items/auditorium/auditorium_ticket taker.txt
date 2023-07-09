@@ -1,0 +1,6 @@
+a cash register
+a computer
+a phone
+a printer
+a ticket counter
+a ticket machine

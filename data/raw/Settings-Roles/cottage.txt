@@ -1,0 +1,5 @@
+caretaker
+gardener
+housekeeper
+owner
+renter

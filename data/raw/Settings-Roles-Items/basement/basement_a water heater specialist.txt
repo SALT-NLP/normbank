@@ -1,0 +1,6 @@
+a drain
+a expansion tank
+a gas line
+a pressure relief valve
+a thermostat
+a vent

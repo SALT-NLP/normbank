@@ -1,0 +1,7 @@
+books
+cooking utensils
+decorations
+dishes
+furniture
+games
+linens

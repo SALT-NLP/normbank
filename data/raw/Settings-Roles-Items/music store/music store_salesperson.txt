@@ -1,0 +1,6 @@
+a list of current promotions
+a list of employees
+a list of hours
+a list of inventory
+a list of policies
+a list of upcoming events

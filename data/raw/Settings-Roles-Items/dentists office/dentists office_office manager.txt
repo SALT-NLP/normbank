@@ -1,0 +1,5 @@
+a list of dental procedures and their codes
+a list of insurance companies that are accepted
+a list of patients that are scheduled for the day
+a list of patients that need to be rescheduled
+a list of supplies that are needed

@@ -1,0 +1,22 @@
+answer questions about the airport and flights
+bribe a passenger
+check for airspace restrictions
+check passports and print boarding passes
+check the aircraft
+check the engine
+check the fuel
+check the instruments
+check the status of the runway
+check the weather conditions
+communicate with the pilot of the aircraft
+direct the aircraft to its gate
+drink alcohol
+fall asleep
+help passengers with luggage
+leave a bag unattended
+lose a bag
+make jokes about weapons
+monitor the aircraft's progress
+monitor the instruments
+provide wheelchair assistance
+tag each bag with the destination

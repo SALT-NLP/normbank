@@ -1,0 +1,4 @@
+cashier
+manager
+pawnbroker
+sales associate

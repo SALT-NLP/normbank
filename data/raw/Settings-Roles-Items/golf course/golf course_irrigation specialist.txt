@@ -1,0 +1,8 @@
+a water source
+controllers
+hoses
+nozzles
+pumps
+sprinklers
+timers
+valves

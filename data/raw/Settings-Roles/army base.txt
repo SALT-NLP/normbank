@@ -1,0 +1,12 @@
+co-pilot
+commander
+corporal
+engineer
+gunner
+medic
+navigator
+officer
+pilot
+sergeant
+soldier
+special forces

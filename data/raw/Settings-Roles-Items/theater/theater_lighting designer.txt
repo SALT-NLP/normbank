@@ -1,0 +1,6 @@
+a light board this is a tool that allows me to control the lighting fixtures
+a light plot this is a map of the theater that shows where all the lighting fixtures are placed
+a list of the lighting instruments that are available this will help me choose the right fixtures for the design
+a set of blueprints for the theater this will help me understand the layout of the theater and where the lighting fixtures need to be placed
+a set of gels these are colored filters that can be placed over the light fixtures to change the color of the light
+a set of gobos these are metal or glass plates that can be placed in front of the light fixtures to create different patterns of light

@@ -1,0 +1,4 @@
+a parking garage
+a parking meter
+a parking permit
+a parking space

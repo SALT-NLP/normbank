@@ -1,0 +1,6 @@
+concessions manager
+projectionist
+screen
+security guard
+sound technician
+ticket seller

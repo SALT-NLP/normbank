@@ -1,0 +1,12 @@
+books
+computers
+copiers
+databases
+electronic resources
+fax machines
+journals
+meeting rooms
+newspapers
+printers
+study rooms
+telephones

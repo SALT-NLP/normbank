@@ -1,0 +1,29 @@
+a crowbar
+a drill
+a fire extinguisher
+a first aid kit
+a hammer
+a hard hat
+a laptop
+a level
+a safety vest
+a saw
+a screwdriver
+a set of allen wrenches
+a set of blueprints
+a set of chisels
+a set of drill bits
+a set of files
+a set of nails
+a set of planes
+a set of pliers
+a set of rasps
+a set of sandpaper
+a set of saw blades
+a set of screwdrivers
+a set of screws
+a set of socket wrenches
+a set of wrenches
+a sledgehammer
+a tape measure
+a toolbox

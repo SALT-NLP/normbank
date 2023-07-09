@@ -1,0 +1,10 @@
+administrator
+bookstore worker
+cafeteria worker
+custodian
+IT worker
+librarian
+maintenance worker
+professor
+student
+teacher

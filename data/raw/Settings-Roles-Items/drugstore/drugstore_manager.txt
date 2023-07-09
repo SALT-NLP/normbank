@@ -1,0 +1,6 @@
+a store
+a way to manage employee shifts
+a way to process payments
+a way to track inventory
+employees
+stock for the store

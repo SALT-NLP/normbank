@@ -1,0 +1,5 @@
+a ball
+a bat
+a glove
+a helmet
+a uniform

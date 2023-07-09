@@ -1,0 +1,5 @@
+a light
+a phone
+a sign indicating the floor number
+a stop button
+an emergency button

@@ -1,0 +1,8 @@
+a broom
+a bucket
+a deck brush
+a dustpan
+a hose
+a mop
+a sponge
+a squeegee

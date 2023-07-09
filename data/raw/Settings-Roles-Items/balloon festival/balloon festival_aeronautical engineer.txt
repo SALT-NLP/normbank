@@ -1,0 +1,7 @@
+a list of aerial demonstration teams
+a list of balloonists
+a list of sponsors
+a list of the types of balloons that will be present
+a map of the festival grounds
+a schedule of events
+a weather forecast for the day of the festival

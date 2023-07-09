@@ -1,0 +1,6 @@
+air marshal
+co-pilot
+flight attendant
+navigator
+passenger
+pilot

@@ -1,0 +1,23 @@
+a calendar
+a chair
+a clock
+a coffee maker
+a computer
+a copier
+a fax machine
+a file cabinet
+a hole punch
+a lamp
+a microwave
+a phone
+a printer
+a refrigerator
+a scanner
+a shredder
+a sink
+a stapler
+a table
+a toilet
+a trash can
+a water cooler
+a white board

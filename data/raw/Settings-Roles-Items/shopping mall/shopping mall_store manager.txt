@@ -1,0 +1,5 @@
+a list of the stores in the mall
+a map of the mall
+the contact information for the mall management
+the contact information for the security office
+the hours of operation for the mall

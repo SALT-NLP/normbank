@@ -1,0 +1,9 @@
+a casino drop box
+a casino rake
+a chips tray
+a dealer button
+a deck of cards
+a discard tray
+a pen and paper
+a shuffler
+chips

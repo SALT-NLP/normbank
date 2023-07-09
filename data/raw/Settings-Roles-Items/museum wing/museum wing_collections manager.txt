@@ -1,0 +1,4 @@
+a budget for acquiring new items
+a database of the items in the collection
+a space to store the collection
+a team of workers to help maintain the collection

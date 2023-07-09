@@ -1,0 +1,7 @@
+a backhoe
+a bulldozer
+a dump truck
+a front-end loader
+a grader
+a trencher
+an excavator

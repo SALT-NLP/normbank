@@ -1,0 +1,6 @@
+a boat
+a captain's license
+a crew
+a destination
+a map
+fuel

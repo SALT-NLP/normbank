@@ -1,0 +1,7 @@
+a bench
+a cash register
+a chair
+a fitting room
+a mirror
+clothes racks
+hangers

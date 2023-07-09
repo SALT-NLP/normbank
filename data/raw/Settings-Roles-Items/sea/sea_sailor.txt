@@ -1,0 +1,11 @@
+a bait
+a boat
+a compass
+a fishing net
+a fishing rod
+a fishing tackle box
+a knife
+a life jacket
+a map
+a rope
+a sail

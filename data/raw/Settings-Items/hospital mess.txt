@@ -1,0 +1,7 @@
+a broom
+a mop
+a sink
+a towel
+a trash can
+cleaning supplies
+soap

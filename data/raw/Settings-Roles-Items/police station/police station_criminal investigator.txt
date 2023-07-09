@@ -1,0 +1,9 @@
+a camera
+a copier
+a fax machine
+a laptop
+a notepad
+a pen
+a printer
+a scanner
+a tape recorder

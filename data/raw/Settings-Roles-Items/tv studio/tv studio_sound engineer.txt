@@ -1,0 +1,6 @@
+a microphone
+a mixer
+a sound board
+cables
+headphones
+speakers

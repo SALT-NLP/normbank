@@ -1,0 +1,9 @@
+a cash register
+a pen and paper to keep track of orders
+a way to communicate with the kitchen (if there is one)
+a way to keep food and drinks warm or cold (depending on what is being served)
+condiments
+cups
+napkins
+plates
+utensils

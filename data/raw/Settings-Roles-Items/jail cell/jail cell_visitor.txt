@@ -1,0 +1,5 @@
+a car registration
+a driver's license
+a government-issued ID
+a visitor pass
+proof of insurance

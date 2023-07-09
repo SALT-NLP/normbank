@@ -1,0 +1,5 @@
+a list of the doctors and nurses that work at the clinic
+a list of the patients that come to the clinic
+a list of the people that work in the office
+a list of the procedures that the clinic offers
+a list of the supplies that the clinic needs

@@ -1,0 +1,58 @@
+bathtubs
+boxes
+breakers
+brushes
+caulking
+ceiling fans
+cement
+concrete
+door handles
+doors
+downspouts
+drywall
+electrical supplies
+extension cords
+faucets
+fittings
+gravel
+grout
+gutters
+hammer
+hinges
+insulation
+joint compound
+knobs
+ladders
+light fixtures
+locks
+lumber
+mortar
+nails
+nails
+osb
+outlets
+paint
+pipe
+plugs
+plumbing supplies
+plywood
+rebar
+rock
+rollers
+roofing materials
+sand
+sandpaper
+screws
+screws
+shingles
+shower heads
+sinks
+skylights
+tape measure
+tile
+toilets
+valves
+vents
+windows
+wire
+wood

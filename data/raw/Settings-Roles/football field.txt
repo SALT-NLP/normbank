@@ -1,0 +1,10 @@
+defensive back
+defensive lineman
+kicker
+linebacker
+offensive lineman
+punter
+quarterback
+running back
+safety
+tight end

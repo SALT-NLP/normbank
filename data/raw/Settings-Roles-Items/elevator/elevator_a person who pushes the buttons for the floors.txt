@@ -1,0 +1,6 @@
+a button for each floor
+a list of the floors
+a map of the building
+a microphone
+a speaker system
+an emergency stop button

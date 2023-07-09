@@ -1,0 +1,8 @@
+catcher
+designated hitter
+first baseman
+outfielder
+pitcher
+second baseman
+shortstop
+third baseman

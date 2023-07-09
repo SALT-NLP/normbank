@@ -1,0 +1,11 @@
+a bathroom
+a bed
+a chair
+a coffee table
+a computer
+a couch
+a desk
+a dining room table
+a kitchen
+a phone
+a tv

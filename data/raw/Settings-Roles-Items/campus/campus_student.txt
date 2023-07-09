@@ -1,0 +1,7 @@
+a classroom
+a dorm
+a gym
+a library
+a place to eat
+a place to live
+a place to study

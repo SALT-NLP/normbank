@@ -1,0 +1,4 @@
+a clicker
+a target
+a treat
+a whistle

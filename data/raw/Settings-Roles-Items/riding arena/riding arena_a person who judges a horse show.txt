@@ -1,0 +1,6 @@
+a clipboard
+a flag
+a megaphone
+a pen
+a stopwatch
+a whistle

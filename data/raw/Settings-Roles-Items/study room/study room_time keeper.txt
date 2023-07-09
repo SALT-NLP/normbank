@@ -1,0 +1,22 @@
+a binde
+a calendar
+a clock
+a corkboard
+a dry erase marker
+a highlighter
+a hole puncher
+a laptop
+a marker
+a notebook
+a paperclip
+a pen
+a pencil
+a printer
+a push pin
+a stack of paper
+a stapler
+a stopwatch
+a tape dispenser
+a timer
+a watch
+a whiteboard

@@ -1,0 +1,4 @@
+a key to operate the elevator
+a list of people who are authorized to use the elevator
+a schedule of when the elevator should be in use
+a way to communicate with the people who are using the elevator

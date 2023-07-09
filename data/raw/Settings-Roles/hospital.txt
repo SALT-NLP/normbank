@@ -1,0 +1,9 @@
+chaplain
+cleaning staff
+doctor
+kitchen staff
+maintenance staff
+nurse
+patient
+receptionist
+security guard

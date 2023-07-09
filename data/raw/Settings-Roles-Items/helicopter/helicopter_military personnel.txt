@@ -1,0 +1,9 @@
+a backpack
+a compass
+a first aid kit
+a flashlight
+a gun
+a helmet
+a knife
+a map
+a radio

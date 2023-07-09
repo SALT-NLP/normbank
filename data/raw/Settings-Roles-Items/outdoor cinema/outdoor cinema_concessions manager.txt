@@ -1,0 +1,5 @@
+a budget for supplies
+a list of what food and drinks will be available
+a way to keep track of inventory
+a way to order more supplies as needed
+a way to track sales
