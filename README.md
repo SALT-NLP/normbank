@@ -4,7 +4,7 @@ NormBank: A Knowledge Bank of Situational Social Norms
 This repository contains data and code for the paper **NormBank: A Knowledge Bank of Situational Social Norms** by [Caleb Ziems](https://calebziems.com/), [Jane Dwivedi-Yu](https://janedwivedi.github.io/), [Yi-Chia Wang](https://scholar.google.com/citations?user=9gMgFPQAAAAJ&hl=en), [Alon Y. Halevy](https://scholar.google.com/citations?user=F_MI0pcAAAAJ&hl=en), [Diyi Yang](https://cs.stanford.edu/~diyiy/)
 
 [Paper](https://arxiv.org/pdf/2305.17008.pdf) | [Data](https://drive.google.com/drive/folders/1XRhrzgG_R0zypPgPlCxK0nlqKbfaI9xe?usp=drive_link)
-
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 ## *What is NormBank?* 
 `NormBank` is a knowledge bank of 155k situational norms that we built to ground flexible normative reasoning for interactive, assistive, and collaborative AI systems. Unlike prior commonsense resources, `NormBank` grounds each inference within a multivalent sociocultural frame, which includes the setting (e.g., restaurant), the agents’ contingent roles (waiter, customer),
 their attributes (age, gender), and other physical, social, and cultural constraints (e.g., the temperature or the country of operation). In total, `NormBank` contains 63k unique constraints from a taxonomy that we introduce and iteratively refine here. Constraints then apply in different combinations to frame social norms. Under these manipulations, norms are non-monotonic — one can cancel an inference by updating its frame even slightly.
@@ -12,6 +12,12 @@ their attributes (age, gender), and other physical, social, and cultural constra
 ## *Where can I download the data?*
 Follow [this link](https://drive.google.com/drive/folders/1XRhrzgG_R0zypPgPlCxK0nlqKbfaI9xe?usp=drive_link) to download `NormBank.csv`
 
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## Full Project Pipeline (annotation + experiments + analysis)
 
